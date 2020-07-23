@@ -8,8 +8,8 @@ nav_order: 0
 # Textbook and course resources
 
 
-- grammatical presentation
-- vocabulary lists
-- selected text passages
-- exercises
-- reference and review
+- [grammatical presentation](./presentation/)
+- [vocabulary lists](./vocabulary/)
+- [selected text passages](./passages/)
+- [exercises](./exercises/)
+- [reference and review](./reference/)
