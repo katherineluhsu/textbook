@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Future Indicative Active/Passive
+title: Future Indicative
 grand_parent: Grammatical presentation
 parent: Verbs
 nav_order: 4

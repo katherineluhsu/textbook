@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imperfect Indicative Active/Passive
+title: Imperfect Indicative
 grand_parent: Grammatical presentation
 parent: Verbs
 nav_order: 3

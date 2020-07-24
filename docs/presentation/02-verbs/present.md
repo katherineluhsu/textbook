@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Present Indicative Active/Passive
+title: Present Indicative
 grand_parent: Grammatical presentation
 parent: Verbs
 nav_order: 2

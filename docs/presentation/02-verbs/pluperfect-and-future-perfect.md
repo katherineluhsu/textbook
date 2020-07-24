@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pluperfect and Future Perfect Indicative Active/Passive
+title: Pluperfect and Future Perfect
 grand_parent: Grammatical presentation
 parent: Verbs
 nav_order: 6
