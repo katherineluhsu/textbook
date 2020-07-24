@@ -21,7 +21,7 @@ The noun to which a pronoun refers is called the pronoun's **antecedent**. The p
 - We listened to the teacher. We listened to **her**.
 - The students took the exam. **They** took the exam.
 
-"He", "her", and "they" exhibit the same **gender** and **number** of their antecedents ("the boy", "the teacher", and "the students" respectively). Note also how each exhibits the same **case** as well. "The boy" is the subject of his sentence, as is "he". It would be grammatically incorrect to substitute in the pronoun "him", as in "Him throws the ball."
+"He", "her", and "they" exhibit the same **gender** and **number** of their antecedents ("the boy", "the teacher", and "the students" respectively).
 
 The same rules apply in Latin. For example, you would use *ea* (feminine nominative singular of *is, ea, id* -- see below) to substitute for *mater* (feminine nominative singular) and *is* (masculine nominative singular of *is, ea, id* -- see below) to substitute for *pater* (masculine nominative singular).
 
@@ -75,7 +75,7 @@ Think about why this makes sense! *ille* points to something that is far away, s
 
 ## Intensives
 
-Another kind of pronoun (that can either stand on its own as a pronoun or function as an adjective that modifies an explicit noun) is the **intensive** or **intensifying** pronoun, *ipse, ipsa, ipsum*, that draws special attention to the word being modified or the pronoun itself. It can be translated as "the [noun] him/her/itself/themselves" or "the very [noun]." Take a look at the following examples:
+Another kind of pronoun (that can either stand on its own as a pronoun or function as an adjective that modifies an explicit noun) is the **intensive** or **intensifying** pronoun, *ipse, ipsa, ipsum*, that draws special attention to the word being modified or the pronoun itself. It can be translated as "the [noun] him/her/itself/themselves", "the very [noun]", or "[noun] in and of itself." Take a look at the following examples:
 
 - *ipse puer*, "the boy himself" or "the very boy"
 - *ipsa puella*, "the girl herself" or "the very girl"
