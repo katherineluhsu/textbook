@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Grammatical presentation
+title: Grammatical Presentation
 nav_order: 1
 ---
 
-# Grammatical presentation
+# Grammatical Presentation
 
 - Module 1: nouns and adjectives
 
