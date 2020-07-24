@@ -21,7 +21,7 @@ Latin verbs have five characteristics: **person**, **number**, **tense**, **voic
 
 **Tense** tells us the temporal relationship between the action that occurs in the sentence and the speaker's statement. For example, in the English sentence, "Lisa did her homework", the past tense verb "did" tells us that Lisa has completed her homework at the time when the sentence was uttered. On the other hand, "Lisa is doing her homework", the present tense verb "is doing" tells us that Lisa is in the process of completing her homework while the speaker is talking. There are six different tenses in Latin: **present**, **imperfect**, **future**, **perfect**, **pluperfect**, and **future perfect**.
 
-**Voice** tells us whether the subject of the sentence is doing the action of the sentence or being acted upon. There are two voices in Latin: active and passive. An **active** verb indicates that the subject performs the central action of the sentence. For example, in the sentence, "the dog catches the ball", the dog (our subject) is performing the act of catching. A **passive** verb indicates that the subject is being acted upon. To follow up on the example above, in the sentence "the ball is caught by the dog", the ball (our subject) is not performing an action, rather it is simply being caught by the dog.
+**Voice** tells us whether the subject of the sentence is doing the action of the sentence or being acted upon. There are two voices in Latin: active and passive. An **active** verb indicates that the subject performs the central action of the sentence. For example, in the sentence, "the dog catches the ball", the dog (our subject) is performing the act of catching. A **passive** verb indicates that the subject is being acted upon. To follow up on the example above, in the sentence "the ball is caught by the dog", the ball (our subject) is not performing an action; rather, it is simply being caught by the dog.
 
 **Mood** tells us how the speaker of the sentence feels about the content of the sentence. Mood can indicate if a sentence's content is simply a statement of fact, an expression of a wish or possibility, an order, etc. There are three Latin moods: **indicative**, **imperative**, and **subjunctive**. While we will go into more detail on this later, for now, we can think of the **indicative** mood as indicating that the speaker is stating the content of the sentence as a fact; the **imperative** mood as indicating that the speaker is making an order; the **subjunctive** mood as indicating some level of uncertainty.
 
@@ -61,7 +61,7 @@ The first four words in the entry are referred to as **principal parts**. Princi
 
 Our **first principal part**, *videō*, indicates what the **1st person singular present active indicative** form of the word is. In this case, it translates to "I see."
 
-*Vidēre*, **the second principal part**, indicates the **present active infinitive** form of the word and translates to "to see." This form provides two important pieces of information. First, it provides the **stem** (*vidē-*) that is used to create all of the present, imperfect, future forms of the verb (known as the **present system**). Second, in combination with the first principal part, it tells us the pattern (often referred to as a **conjugation**) that the verb will follow in creating different forms (more below).
+*Vidēre*, **the second principal part**, indicates the **present active infinitive** form of the word and translates to "to see." This form provides two important pieces of information. First, it provides the **stem** (*vidē-*) that is used to create all of the present, imperfect, future forms of the verb (known as the **present system**). Second, in combination with the first principal part, it tells us the pattern (often referred to as a **conjugation**) that the verb will follow in creating different forms (more below in [Conjugations](#conjugations)).
 
 Our **third principal part**, *vīdī*, indicates the **1st person singular perfect active indicative** form, which translates in our example to "I saw". The third principal part provides the stem (*vīd-*) that is used to create all of the active forms of perfect, pluperfect, and future perfect verbs (known as the **perfect active system**).
 
@@ -75,7 +75,7 @@ Our **third principal part**, *vīdī*, indicates the **1st person singular perf
 
 The five different characteristics discussed above are reflected in the endings of a verb form. Like nouns, there are patterns in the way that verbs change their endings which we call **conjugations**.
 
-There are four major conjugations (as well as one minor one) that we will become familiar with.
+There are four major conjugations (as well as one sub-conjugation) that we will become familiar with.
 
 The conjugation to which a verb belongs can be easily determined by consulting the first and second principal parts in a dictionary entry:
 
@@ -83,7 +83,7 @@ The conjugation to which a verb belongs can be easily determined by consulting t
 
 - If the second principal part ends with ***-ēre*** (note the long mark over the second-to-last *e*) and the first principal part ends with ***-eō***, then the verb belongs to the **second conjugation** (e.g. *videō*, *vidēre*, *vīdī*, *vīsus* - to see).
 
-- If the second principal part ends with ***-ere*** (note there is no long mark over the second-to-last *e)* and the first principal part ends with ***-ō*** and no other proceeding vowel, then the verb belongs to the **third conjugation** (e.g. *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead).
+- If the second principal part ends with ***-ere*** (note that there is no long mark over the second-to-last *e*) and the first principal part ends with ***-ō*** and no other proceeding vowel, then the verb belongs to the **third conjugation** (e.g. *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead).
   * If the second principal ends with ***-ere*** (note there is no long mark over the second-to-last *e*) and the first principal part ends with ***-iō***, then the verb belongs to the **third -io conjugation** (e.g. *capiō*, *capere*, *cēpī*, *captus* - to take).
 
 - If the second principal part ends with ***-īre*** and the first principal part ends with ***-iō***, then the verb belongs to the **fourth conjugation** (e.g. *audiō*, *audīre*, *audīvī*, *audītus* - to hear).
