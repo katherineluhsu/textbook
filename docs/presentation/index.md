@@ -7,6 +7,6 @@ has_children: true
 
 # Grammatical presentation
 
-- Module 1: nouns and adjectives
+- [Module 1: Nouns, Adjectives, and Pronouns](01-nouns-adjs-pron/)
 
 ....

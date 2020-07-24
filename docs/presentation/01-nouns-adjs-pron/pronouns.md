@@ -2,7 +2,7 @@
 layout: page
 title: Pronouns
 nav_order: 3
-parent: Nouns and Adjectives
+parent: Nouns, Adjectives, and Pronouns
 grand_parent: Grammatical presentation
 ---
 

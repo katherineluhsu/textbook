@@ -2,7 +2,7 @@
 layout: page
 title: Adjectives
 nav_order: 2
-parent: Nouns and Adjectives
+parent: Nouns, Adjectives, and Pronouns
 grand_parent: Grammatical presentation
 ---
 
