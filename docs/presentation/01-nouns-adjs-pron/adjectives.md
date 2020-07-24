@@ -27,9 +27,9 @@ Note that although an adjective must match its noun in gender, case, and number,
 - *sapiens puer* ("wise boy"; masculine singular nominative. *sapiens* = 3rd declension, 1 termination; *puer* = 2nd declension masculine)  
 - *sapiens puella* ("wise girl"; feminine singular nominative. *puella* = 1st declension feminine)
 
-Just like nouns, the dictionary entries for adjectives tells us what declension(s) they belong to and, thus, how to form them. Dictionary entries for adjectives come in four types:
+Just like nouns, the dictionary entries for adjectives tells us what declension(s) they belong to and, thus, how to form them. Dictionary entries for adjectives come in four major types, with some special rules and irregulars to consider:
 
-## 1) The 2-1-2 adjectives:
+## 2-1-2 adjectives
 
 Examples:
 - *magnus*, *magna*, *magnum* - great
@@ -40,9 +40,11 @@ The 2-1-2 adjective can be recognized from endings of all three entries (*-us, -
 
 The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
 
+Note that getting the adjective's stem from the *feminine* form is very important, since spelling can change from the masculine to the feminine form. For example, note the 2-1-2 adjective *pulcher, pulchra, pulchrum*, "handsome, beautiful." If you were to base your declensions on the masculine form, there would be an extra -e- in your forms that shouldn't be there. The proper stem is *pulchr-* (*pulchra* minus -a = *pulchr*).
+
 The full declension chart for 2-1-2 adjectives can be found [here](../../charts/1-adjectives#212).
 
-## 1.1) -īus adjectives:
+## 2-1-2: -īus adjectives
 
 There is a special subset of 2-1-2 adjectives known as **-īus adjectives**, so called because although they are 2-1-2 adjectives, their genitive singular forms across all three genders end in *-īus*, rather than the *-ī* or *-ae* familiar from regular 2-1-2 adjectives. Also, their dative singular forms across all three genders end in *-ī*, rather than the expected *-ō* or *-ae*. Nine adjectives fall into this pattern, and two of them are in your vocabulary for this module: *nullus*, *nulla*, *nullum*, "no, none", and *uter*, *utra*, *utrum*, "both, whichever (of two)." So, take a look at the following examples:
 
@@ -51,7 +53,7 @@ There is a special subset of 2-1-2 adjectives known as **-īus adjectives**, so 
 
 The full declension chart for *-īus* adjectives can be found [here](../../charts/1-adjectives#11--īus-adjectives).
 
-## 2) Three termination adjectives:
+## Three termination adjectives
 
 *ācer*, *ācris*, *ācre* - sharp, harsh
 
@@ -63,7 +65,7 @@ Generally, these adjectives decline like [third declension masculine/feminine](.
 
 The full declension chart for three termination adjectives can be found [here](../../charts/1-adjectives#3term).
 
-## 3) Two termination adjectives:
+## Two termination adjectives
 
 *fortis*, *forte* - strong
 
@@ -73,7 +75,7 @@ Like three termination adjectives, two termination adjectives generally decline 
 
 The declension of two termination adjectives is exactly the same as for three termination adjectives, except that the masculine and feminine nominative singular forms are the same.
 
-## 4) One termination adjectives:
+## One termination adjectives
 
 *ferox*, *ferocis* - ferocious
 
@@ -81,35 +83,17 @@ One termination adjectives can be recognized by the *-is* ending in the second p
 
 The full declension chart for one termination adjectives can be found [here](../../charts/1-adjectives#1term).
 
-## 5) Irregulars
+## Irregulars
 
-Beyond these categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like [*hic, haec, hoc*](../../charts/1-adjectives#hic) and [*ille, illa, illud*](../../charts/1-adjectives#ille) (adjectives that point out what you are referring to, equivalent to the English "this" and "that") and the intensifying adjective [*ipse, ipsa, ipsum*](../../charts/1-adjectives#ipse) (adjectives that emphasize the noun they modify, equivalent to the English "the *very* girl" or "the girl *herself*"). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
-
-***
-
-## Practice Opportunity
-
-What type of adjective is each of the following?
-
-1. *celer*, *celeris*, *celere* - swift  
-<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">Three termination</span>
-
-2. *sapiens*, *sapientis* - wise  
-<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">One termination</span>
-
-3. *malus*, *mala*, *malum* - bad, evil  
-<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">2-1-2</span>
-
-4. *brevis*, *breve* - brief, short  
-<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">Two termination</span>
-
-[Back to top.](#top)
+Beyond these four major categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like [*hic, haec, hoc*](../../charts/1-adjectives#hic) and [*ille, illa, illud*](../../charts/1-adjectives#ille) and the intensive/intensifying adjective [*ipse, ipsa, ipsum*](../../charts/1-adjectives#ipse) (click for grammatical descriptions of the [demonstrative](#) and the [intensive](#)). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
 
 ***
 
 # Substantives
 
-One final note on adjectives. At times, they can be used effectively as nouns, which we refer to as **substantival** use of the adjective. You will recognize the substantival use of an adjective by the fact that there will be no noun with which it agrees. To fill out the meaning, we simple add "men", "women", "people", or "things" to the meaning of the adjective depending on the gender. So *bonī* can stand in for "good men" and *bonae* for "good women." This is something that we will return to throughout the semester.
+One final note on adjectives. At times, they can be used effectively as nouns, which we refer to as **substantival** use of the adjective. You will recognize the substantival use of an adjective by the fact that there will be no noun with which it agrees. To fill out the meaning, we simple add "man/men", "woman/women", "person/people", or "thing/things" to the meaning of the adjective depending on the gender and number. So while *bonus* can mean "good man", *bonae* can mean "good women."
+
+Note that for plural groups of mixed gender, Latin defaults to the masculine. So, *bonī* can mean either "good men", if we know for a fact that only male-identified figures are in the group, or "good people", if the group is of mixed gender.
 
 [Back to top.](#top)
 

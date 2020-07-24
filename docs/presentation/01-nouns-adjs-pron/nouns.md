@@ -69,23 +69,7 @@ The declension to which a noun belongs can be easily determined by consulting th
 
 ***
 
-## Practice opportunity
-
-What declension does each of the following nouns belong to?
-1. *ager*, *agrī*, m. - field  
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">2nd</span>
-
-2. *nomen*, *nominis*, n. - name  
-<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">3rd</span>
-
-3. *agricola*, *agricolae*, m. - farmer  
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">1st</span>
-
-[Back to top.](#top)
-
-***
-
-# Third Declension i-stems
+## Third Declension i-stems
 
 There is a special subset of third declension nouns known as **i-stems**. These nouns include an -i- in certain case/number endings:
 - **masculine**, **feminine**, and **neuter i-stems** have the ending **-ium** in the genitive plural, rather than the expected -um.
@@ -93,7 +77,7 @@ There is a special subset of third declension nouns known as **i-stems**. These 
 
 We can identify an i-stem based on the nominative and genitive forms in the noun's dictionary entry according to the following rules:
 
-## Masculine and Feminine i-stems
+### Masculine and Feminine i-stems
 
 1. **parisyllabic**: the nominative ends in **-is** or **-ēs**, and the nominative and the genitive have the same number of syllables (pari- = "equal"). Some examples of parisyllabic i-stems include:
   - hostis, hostis, m. - enemy (gen. pl. = host**ium**)
@@ -105,7 +89,7 @@ We can identify an i-stem based on the nominative and genitive forms in the noun
 
 Note that the only difference in declension between these masculine and feminine i-stems versus regular masculine and feminine third declension nouns is the extra -i- in the genitive plural ending. Otherwise, declension is completely regular.
 
-## Neuter i-stems
+### Neuter i-stems
 
 3. **-al, -ar, -e**: the nominative ends in **-al**, **-ar**, or **-e**. Examples include:
   - animal, animālis, n. - animal (abl. sg. = animāl**ī**; nom. and acc. pl. = animāl**ia**; gen. pl. = animāl**ium**)
@@ -123,31 +107,3 @@ Nouns in the **genitive** case are used to modify another noun and will usually 
 
 *fīlius patris* (the son of the father)  
 *nullus familiae* (none of the family)
-
-***
-
-### Practice Opportunity
-
-Translate the following phrases or sentences into English. Consult your [vocabulary](../../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts](../../charts/1-nouns) and [adjective declension charts](../../charts/1-adjectives) for this module if needed.
-
-Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
-
-1. *maritus bonae rēginae*  
-<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">husband of the good queen</span>
-
-2. *māter huius familiae*  
-<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">mother of this family</span>
-
-3. *māter haec familiae*  
-<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">this mother of the family</span>
-
-4. *parēns illīus monstrī*  
-<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">parent of that monster</span>
-
-5. *parentēs sapientis puerī*  
-<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">parents of the wise boy</span>
-
-6. *illa est māter familiae.*  
-<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
-
-[Back to top.](#top)
