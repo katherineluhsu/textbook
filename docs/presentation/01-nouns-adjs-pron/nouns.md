@@ -6,6 +6,11 @@ parent: Nouns, Adjectives, and Pronouns
 grand_parent: Grammatical presentation
 ---
 
+1. TOC
+{:toc}
+
+***
+
 # Nouns
 
 Latin nouns have three characteristics: **grammatical gender**, **number**, and **case**.

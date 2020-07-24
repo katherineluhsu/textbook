@@ -6,6 +6,11 @@ parent: Nouns, Adjectives, and Pronouns
 grand_parent: Grammatical presentation
 ---
 
+1. TOC
+{:toc}
+
+***
+
 # ADD SECTION ON DEMONSTRATIVE AND INTENSIVE PRONOUNS? SEE IRREGULAR SECTION IN [ADJECTIVES](adjectives)
 
 ## Pronouns - *is, ea, id*

@@ -6,6 +6,3 @@ has_children: true
 ---
 
 # Nouns, Adjectives, and Pronouns
-
-1. Table of Contents
-{:toc}

@@ -6,6 +6,11 @@ parent: Nouns, Adjectives, and Pronouns
 grand_parent: Grammatical presentation
 ---
 
+1. TOC
+{:toc}
+
+***
+
 # Adjectives
 
 Adjectives modify (i.e., tell us more about) nouns. In Latin, adjectives must agree with nouns in **number**, **case**, and **gender**. Thus, a feminine nominative singular noun must be modified by the feminine nominative singular form of the adjective, while a masculine nominative singular noun is modified by a masculine nominative singular adjective. For instance:

@@ -6,6 +6,3 @@ has_children: true
 ---
 
 # Grammatical presentation
-
-1. Table of Contents
-{:toc}
