@@ -87,7 +87,7 @@ We can identify an i-stem based on the nominative and genitive forms in the noun
   - nox, no**ct**is, f. - night (gen. pl. = noct**ium**)
   - urbs, u**rb**is, f. - city (gen. pl. = urb**ium**)
 
-Note that the only difference in declension between these masculine and feminine i-stems versus regular masculine and feminine third declension nouns is the extra -i- in the genitive plural ending. Otherwise, declension is completely regular. Here are the paradigm charts for [masculine and feminine i-stems](../../reference/nouns-paradigms.html#third-declension-masculinefeminine-i-stem)
+Note that the only difference in declension between these masculine and feminine i-stems versus regular masculine and feminine third declension nouns is the extra -i- in the genitive plural ending. Otherwise, declension is completely regular. Here are the paradigm charts for [masculine and feminine i-stems](../../reference/nouns-paradigms.html#third-declension-masculinefeminine-i-stem).
 
 ### Neuter i-stems
 
@@ -97,7 +97,7 @@ Note that the only difference in declension between these masculine and feminine
 
 Note that only **neuter** i-stems use an -i- in the abl. sg. and nom. and acc. pl. forms (and they use it in the gen. pl., a trait shared with masculine and feminine i-stems). Masculine and feminine i-stems use the -i- only in the gen. pl.
 
-Here are the paradigm charts for [neuter i-stems](../../reference/nouns-paradigms.html#third-declension-neuter-i-stem)
+Here are the paradigm charts for [neuter i-stems](../../reference/nouns-paradigms.html#third-declension-neuter-i-stem).
 
 ***
 

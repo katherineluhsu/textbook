@@ -23,11 +23,11 @@ The noun to which a pronoun refers is called the pronoun's **antecedent**. The p
 
 "He", "her", and "they" exhibit the same **gender** and **number** of their antecedents ("the boy", "the teacher", and "the students" respectively). Note also how each exhibits the same **case** as well. "The boy" is the subject of his sentence, as is "he". It would be grammatically incorrect to substitute in the pronoun "him", as in "Him throws the ball."
 
-The same rules apply in Latin. For example, you would use *ea* (feminine nominative singular) to substitute for *mater* (feminine nominative singular) and *is* (masculine nominative singular) to substitute for *pater* (masculine nominative singular).
+The same rules apply in Latin. For example, you would use *ea* (feminine nominative singular of *is, ea, id* -- see below) to substitute for *mater* (feminine nominative singular) and *is* (masculine nominative singular of *is, ea, id* -- see below) to substitute for *pater* (masculine nominative singular).
 
 This also applies for nouns that are not typically biologically gendered. For the Latin word for table (*mensa*), you would use *ea* as the pronoun because the noun is feminine (although we might think it's neuter because it's a table). Remember that a noun's gender is a static fact that you have to memorize with the dictionary entry.
 
-The declension for the pronoun is tricky, so be sure to consult the paradigm chart linked above so you are able to recognize its forms.
+The declension for the pronoun is tricky, so be sure to consult the paradigm charts linked under specific pronouns below so you are able to recognize their forms.
 
 ***
 
