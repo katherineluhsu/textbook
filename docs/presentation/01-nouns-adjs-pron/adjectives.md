@@ -38,11 +38,11 @@ Examples:
 
 The 2-1-2 adjective can be recognized from endings of all three entries (*-us, -a, -um* or *-r, -a, -um*). The three forms listed tells us the nominative singular form for all three genders - masculine, feminine, and neuter (from left to right).  
 
-The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
+The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../../reference/nouns-paradigms.html#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../../reference/nouns-paradigms.html#first-declension) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../../reference/nouns-paradigms.html#second-declension-neuter) (e.g., *exemplum*).
 
 Note that getting the adjective's stem from the *feminine* form is very important, since spelling can change from the masculine to the feminine form. For example, note the 2-1-2 adjective *pulcher, pulchra, pulchrum*, "handsome, beautiful." If you were to base your declensions on the masculine form, there would be an extra -e- in your forms that shouldn't be there. The proper stem is *pulchr-* (*pulchra* minus -a = *pulchr*).
 
-The full declension chart for 2-1-2 adjectives can be found [here](../../charts/1-adjectives#212).
+The full declension chart for 2-1-2 adjectives can be found [here](../../reference/adjectives-paradigms.html#2-1-2-adjectives).
 
 ## 2-1-2: -īus adjectives
 
@@ -51,7 +51,7 @@ There is a special subset of 2-1-2 adjectives known as **-īus adjectives**, so 
 - *pater nullīus familiae*, "father of no family"
 - *parentēs utrīus fīliī*, "parents of whichever son"
 
-The full declension chart for *-īus* adjectives can be found [here](../../charts/1-adjectives#11--īus-adjectives).
+The full declension chart for *-īus* adjectives can be found [here](../../reference/adjectives-paradigms.html#2-1-2---īus-adjectives).
 
 ## Three termination adjectives
 
@@ -61,9 +61,11 @@ Three termination adjectives are so called for the three different parts of the 
 
 To decline a three termination adjective beyond the nominative case, begin the same way as with a 2-1-2 adjective: go to the second part of the dictionary entry, the feminine nominative singular form, and get the adjective's stem by chopping off the final *-is*. Then, add the endings that you need.
 
-Generally, these adjectives decline like [third declension masculine/feminine](../../charts/1-nouns#third-declension-masculinefeminine) and [third declension neuter](../../charts/1-nouns#third-declension-neuter) nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
+Generally, these adjectives decline like third declension i-stem nouns in the [masculine, feminine](../../reference/nouns-paradigms.html#third-declension-masculinefeminine-i-stem), and [neuter](../../reference/nouns-paradigms.html#third-declension-neuter-i-stem)  with a few small differences.
 
-The full declension chart for three termination adjectives can be found [here](../../charts/1-adjectives#3term).
+The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
+
+The full declension chart for three termination adjectives can be found [here](../../reference/adjectives-paradigms.html#three-termination-adjectives).
 
 ## Two termination adjectives
 
@@ -73,7 +75,7 @@ Two termination adjectives can be recognized by the fact that their dictionary e
 
 Like three termination adjectives, two termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
 
-The declension of two termination adjectives is exactly the same as for three termination adjectives, except that the masculine and feminine nominative singular forms are the same.
+The declension of two termination adjectives is exactly the same as for three termination adjectives, except that the masculine and feminine nominative singular forms are the same. For reference, here is the [paradigm chart](../../reference/adjectives-paradigms.html#two-termination-adjectives) for two termination adjectives.
 
 ## One termination adjectives
 
@@ -81,11 +83,11 @@ The declension of two termination adjectives is exactly the same as for three te
 
 One termination adjectives can be recognized by the *-is* ending in the second part of the dictionary entry. In the dictionary entry for one termination adjectives, the first form (i.e. *ferox*) signifies the nominative singular for all three genders (hence the name "one termination"), and the second form (i.e. *ferocis*) signifies the genitive singular for all three genders. Like three and two termination adjectives, one termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
 
-The full declension chart for one termination adjectives can be found [here](../../charts/1-adjectives#1term).
+The full declension chart for one termination adjectives can be found [here](../../reference/adjectives-paradigms.html#one-termination-adjectives).
 
 ## Irregulars
 
-Beyond these four major categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like [*hic, haec, hoc*](../../charts/1-adjectives#hic) and [*ille, illa, illud*](../../charts/1-adjectives#ille) and the intensive/intensifying adjective [*ipse, ipsa, ipsum*](../../charts/1-adjectives#ipse) (click for grammatical descriptions of the [demonstrative](#) and the [intensive](#)). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
+Beyond these four major categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives/pronouns like [*hic, haec, hoc*](../../reference/pronouns-paradigms.html#hic-haec-hoc---this-these) and [*ille, illa, illud*](../../reference/pronouns-paradigms.html#ille-illa-illud---that-those) and the intensive/intensifying adjective/pronoun [*ipse, ipsa, ipsum*](../../reference/pronouns-paradigms.html#ipse-ipsa-ipsum---the-very-__-____self) (click for grammatical descriptions of the [demonstrative](pronouns#demonstratives) and the [intensive](pronouns#intensives)). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
 
 ***
 

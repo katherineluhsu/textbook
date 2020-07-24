@@ -37,25 +37,33 @@ The most common Latin pronoun is *is, ea, id* ("he", "she", "it", "they"). It is
 
 The dictionary entry for *is, ea, id* represents the nominative singular forms for all three genders (once again, masculine, feminine, and neuter from left to right), so it works similarly to an adjective.
 
-The declension chart for *is*, *ea*, *id* can be found [here](../../charts/1-nouns#pronouns).
+The declension chart for *is*, *ea*, *id* can be found [here](../../reference/pronouns-paradigms.html#is-ea-id---he-she-it-they-3rd-person).
 
 ***
 
 ## Demonstratives
 
-There are irregular pronouns called **demonstratives** that serve to point out something that is nearby or far away from the speaker (from the Latin *demonstrāre*, "to point out"). Note that these pronouns can stand on their own, or they can also function as adjectives that modify an explicit noun.
+There are irregular pronouns called **demonstratives** that serve to point out something that is nearby or far away from the speaker (from the Latin *demonstrāre*, "to point out"). Note that these pronouns can stand on their own, or they can also function as adjectives that modify an explicit noun. If a pronoun, we can sometimes treat it like a [substantive adjective](adjectives#substantives) and supply a word like "man/men", "woman/women", "person/people", or "thing/things", depending on the gender and number of the pronoun, if our translation calls for it.
 
 The demonstrative *hic, haec, hoc*, "this, these", points out something that is close to the speaker.
 
 - *hic puer*, "this boy"
 - *haec puellae*, "these girls"
 - *hoc animāl*, "this animal"
+- *hic* (masculine nominative singular), "this man"
+- *hī* (masculine nominative plural), "these men" or "these people"
+
+And here is the [paradigm chart](reference/pronouns-paradigms.html#hic-haec-hoc---this-these) for *hic*.
 
 The demonstrative *ille, illa, illud*, "that, those", points out something that is far away from the speaker.
 
 - *illī puerī*, "those boys"
 - *illa puella*, "that girl"
 - *illud animāl*, "that animal"
+- *illae* (feminine nominative plural), "those women"
+- *illa*, "that woman" (if feminine nominative singular) or "those things" (if neuter nominative plural)
+
+And here is the [paradigm chart](reference/pronouns-paradigms.html#ille-illa-illud---that-those) for *ille*.
 
 The demonstratives can also be used in conjunction to indicate "the former ... the latter" with *ille* first and *hic* second:
 

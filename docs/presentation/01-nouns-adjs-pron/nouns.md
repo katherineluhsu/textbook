@@ -63,9 +63,9 @@ As I alluded to above, Latin is an inflected language and relies on word endings
 The declension to which a noun belongs can be easily determined by consulting the genitive singular form in the dictionary entry:
 - If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g., *fīlia*, *fīliae*, f. - daughter). The paradigm chart for first declension nouns can be found [here](../../reference/nouns-paradigms.html#first-declension).
 
-- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g., *fīlius*, *fīliī*, m. - son). NOTE: The *nominative* singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension *neuter* nouns usually end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they all belong to the second declension! Here are the paradigm charts for [second declension masculine nouns](../../charts/1-nouns#second-declension-masculine) and [second declension neuter nouns](../../charts/1-nouns#second-declension-neuter).
+- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g., *fīlius*, *fīliī*, m. - son). NOTE: The *nominative* singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension *neuter* nouns usually end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they all belong to the second declension! Here are the paradigm charts for [second declension masculine nouns](../../reference/nouns-paradigms.html#second-declension-masculine) and [second declension neuter nouns](../../reference/nouns-paradigms.html#second-declension-neuter).
 
-- If the genitive singular entry ends in ***-is***, then the noun belongs to what we call the **third declension** (e.g *pater*, *patris*, m. - father). Here are the paradigm charts for [third declension masculine/feminine nouns](../../charts/1-nouns#third-declension-masculinefeminine) and [third declension neuter nouns](../../charts/1-nouns#third-declension-neuter).
+- If the genitive singular entry ends in ***-is***, then the noun belongs to what we call the **third declension** (e.g *pater*, *patris*, m. - father). Here are the paradigm charts for [third declension masculine/feminine nouns](../../reference/nouns-paradigms.html#third-declension-masculinefeminine) and [third declension neuter nouns](../../reference/nouns-paradigms.html#third-declension-neuter).
 
 ***
 
@@ -87,7 +87,7 @@ We can identify an i-stem based on the nominative and genitive forms in the noun
   - nox, no**ct**is, f. - night (gen. pl. = noct**ium**)
   - urbs, u**rb**is, f. - city (gen. pl. = urb**ium**)
 
-Note that the only difference in declension between these masculine and feminine i-stems versus regular masculine and feminine third declension nouns is the extra -i- in the genitive plural ending. Otherwise, declension is completely regular.
+Note that the only difference in declension between these masculine and feminine i-stems versus regular masculine and feminine third declension nouns is the extra -i- in the genitive plural ending. Otherwise, declension is completely regular. Here are the paradigm charts for [masculine and feminine i-stems](../../reference/nouns-paradigms.html#third-declension-masculinefeminine-i-stem)
 
 ### Neuter i-stems
 
@@ -96,6 +96,8 @@ Note that the only difference in declension between these masculine and feminine
   - mare, maris, n. - sea (abl. sg. = mar**ī**; nom. and acc. pl. = mar**ia**; gen. pl. = mar**ium**)
 
 Note that only **neuter** i-stems use an -i- in the abl. sg. and nom. and acc. pl. forms (and they use it in the gen. pl., a trait shared with masculine and feminine i-stems). Masculine and feminine i-stems use the -i- only in the gen. pl.
+
+Here are the paradigm charts for [neuter i-stems](../../reference/nouns-paradigms.html#third-declension-neuter-i-stem)
 
 ***
 
