@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Grammatical Presentation
+title: Grammatical presentation
 nav_order: 1
+has_children: true
 ---
 
-# Grammatical Presentation
+# Grammatical presentation
 
 - Module 1: nouns and adjectives
 

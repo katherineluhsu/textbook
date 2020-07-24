@@ -3,6 +3,7 @@ layout: page
 title: Nouns
 nav_order: 1
 parent: Nouns and Adjectives
+grand_parent: Grammatical presentation
 ---
 
 # Nouns

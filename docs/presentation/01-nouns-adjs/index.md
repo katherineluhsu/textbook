@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nouns and Adjectives
-parent: Grammatical Presentation
+parent: Grammatical presentation
 has_children: true
 ---
 
