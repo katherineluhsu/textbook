@@ -2,9 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 
 footer_content: "All material developed by Daniel Libatique, Dominic Machado and Neel Smith, and available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a> "
 
-# for local build
-theme: "just-the-docs"
-
 aux_links:
   "Textbook resources on github":
     - "https://github.com/lingualatina/textbook/"
