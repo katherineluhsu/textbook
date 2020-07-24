@@ -109,3 +109,40 @@ Note that the only difference in declension between these masculine and feminine
 Note that only **neuter** i-stems use an -i- in the abl. sg. and nom. and acc. pl. forms (and they use it in the gen. pl., a trait shared with masculine and feminine i-stems). Masculine and feminine i-stems use the -i- only in the gen. pl.
 
 ***
+
+## Case usages - Nominative and Genitive
+
+For the current module, we will focus only on two of the six cases: the **nominative** and the **genitive**. The **nominative** case is used to signal that a noun is the subject of a sentence or is equivalent to the subject of the sentence. For an example of the latter, we can think of the Latin sentence: *mater est femina* ("the mother is a woman"). Both *mater* and *fēmina* are in the nominative. *Mater* is the subject of the verb *est* and so is in the nominative case. *Fēmina* is also in the nominative case because it is equivalent with the subject *mater* in this sentence. This usage, which occurs with a linking verb (e.g. "is" in English, "*est*" in Latin), is called the **predicate nominative**.
+
+Nouns in the **genitive** case are used to modify another noun and will usually appear next to that noun. Like adjectives, they provide further information about that noun. The genitive is almost always translated with "of" plus the word in the genitive. Examples of the usage of the genitive include:
+
+*fīlius patris* (the son of the father)  
+*nullus familiae* (none of the family)
+
+***
+
+### Practice Opportunity
+
+Translate the following phrases or sentences into English. Consult your [vocabulary](../../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts](../../charts/1-nouns) and [adjective declension charts](../../charts/1-adjectives) for this module if needed.
+
+Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
+
+1. *maritus bonae rēginae*  
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">husband of the good queen</span>
+
+2. *māter huius familiae*  
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">mother of this family</span>
+
+3. *māter haec familiae*  
+<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">this mother of the family</span>
+
+4. *parēns illīus monstrī*  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">parent of that monster</span>
+
+5. *parentēs sapientis puerī*  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">parents of the wise boy</span>
+
+6. *illa est māter familiae.*  
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
+
+[Back to top.](#top)
