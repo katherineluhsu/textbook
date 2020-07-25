@@ -13,6 +13,7 @@ nav_order: 5
 ***
 
 **Paradigm Verbs**:
+- sum, esse, fuī, futūrus - to be
 - eō, īre, īvī/iī, ītus - to go
 - ferō, ferre, tūlī, lātus - to bear, carry
 - volō, velle, voluī - to want, wish
@@ -25,70 +26,70 @@ nav_order: 5
 
 ### Present Active Indicative
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | eō | ferō | volō | nōlō | mālō |
-| 2nd sg. | īs | fers | vīs | nōn vīs | māvis |
-| 3rd sg. | it | fert | vult | nōn vult | māvult |
-| 1st pl. | īmus | ferimus | volumus | nōlumus | mālumus |
-| 2nd pl. | ītis | fertis | vultis | nōn vultis | māvultis |
-| 3rd pl. | eunt | ferunt | volunt | nōlunt | mālunt |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | sum | eō | ferō | volō | nōlō | mālō |
+| 2nd sg. | es | īs | fers | vīs | nōn vīs | māvis |
+| 3rd sg. | est | it | fert | vult | nōn vult | māvult |
+| 1st pl. | sumus | īmus | ferimus | volumus | nōlumus | mālumus |
+| 2nd pl. | estis | ītis | fertis | vultis | nōn vultis | māvultis |
+| 3rd pl. | sunt | eunt | ferunt | volunt | nōlunt | mālunt |
 
 ### Imperfect Active Indicative
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | ībam | ferēbam | volēbam | nōlēbam | mālēbam |
-| 2nd sg. | ībās | ferēbās | volēbās | nōlēbās | mālēbās |
-| 3rd sg. | ībat | ferēbat | volēbat | nōlēbat | mālēbat |
-| 1st pl. | ībāmus | ferēbāmus | volēbāmus | nōlēbāmus | mālēbāmus |
-| 2nd pl. | ībātis | ferēbātis | volēbātis | nōlēbātis | mālēbātis |
-| 3rd pl. | ībant | ferēbant | volēbant | nōlēbant | mālēbant |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | eram | ībam | ferēbam | volēbam | nōlēbam | mālēbam |
+| 2nd sg. | erās | ībās | ferēbās | volēbās | nōlēbās | mālēbās |
+| 3rd sg. | erat | ībat | ferēbat | volēbat | nōlēbat | mālēbat |
+| 1st pl. | erāmus | ībāmus | ferēbāmus | volēbāmus | nōlēbāmus | mālēbāmus |
+| 2nd pl. | erātis | ībātis | ferēbātis | volēbātis | nōlēbātis | mālēbātis |
+| 3rd pl. | erant | ībant | ferēbant | volēbant | nōlēbant | mālēbant |
 
 ### Future Active Indicative
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | ībō | feram | volam | nōlam | mālam |
-| 2nd sg. | ībis | ferēs | volēs | nōlēs | mālēs |
-| 3rd sg. | ībit | feret | volet | nōlet | mālet |
-| 1st pl. | ībimus | ferēmus | volēmus | nōlēmus | mālēmus |
-| 2nd pl. | ībitis | ferētis | volētis | nōlētis | mālētis |
-| 3rd pl. | ībunt | ferent | volent | nōlent | mālent |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | erō | ībō | feram | volam | nōlam | mālam |
+| 2nd sg. | eris | ībis | ferēs | volēs | nōlēs | mālēs |
+| 3rd sg. | erit | ībit | feret | volet | nōlet | mālet |
+| 1st pl. | erimus | ībimus | ferēmus | volēmus | nōlēmus | mālēmus |
+| 2nd pl. | eritis | ībitis | ferētis | volētis | nōlētis | mālētis |
+| 3rd pl. | erunt | ībunt | ferent | volent | nōlent | mālent |
 
 ### Perfect Active Indicative
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | īv-**ī** or i-**ī** | tul-**ī** | volu-**ī** | nōlu-**ī** | mālu-**ī** |
-| 2nd sg. | īstī | tul-**istī** | volu-**istī** | nōlu-**istī** | mālu-**istī** |
-| 3rd sg. | i-**it** | tul-**it** | volu-**it** | nōlu-**it** | mālu-**it** |
-| 1st pl. | i-**imus** | tul-**imus** | volu-**imus** | nōlu-**imus** | mālu-**imus** |
-| 2nd pl. | īstis | tul-**istis** | volu-**istis** | nōlu-**istis** | mālu-**istis** |
-| 3rd pl. | i-**ērunt** | tul-**ērunt** | volu-**ērunt** | nōlu-**ērunt** | mālu-**ērunt** |
-| 3rd pl. alt. | ī-**ēre** | tul-**ēre** | volu-**ēre** | nōlu-**ēre** | mālu-**ēre** |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | fu-**ī** | īv-**ī** or i-**ī** | tul-**ī** | volu-**ī** | nōlu-**ī** | mālu-**ī** |
+| 2nd sg. | fu-**istī** | īstī | tul-**istī** | volu-**istī** | nōlu-**istī** | mālu-**istī** |
+| 3rd sg. | fu-**it** | i-**it** | tul-**it** | volu-**it** | nōlu-**it** | mālu-**it** |
+| 1st pl. | fu-**imus** | i-**imus** | tul-**imus** | volu-**imus** | nōlu-**imus** | mālu-**imus** |
+| 2nd pl. | fu-**istis** | īstis | tul-**istis** | volu-**istis** | nōlu-**istis** | mālu-**istis** |
+| 3rd pl. | fu-**ērunt** | i-**ērunt** | tul-**ērunt** | volu-**ērunt** | nōlu-**ērunt** | mālu-**ērunt** |
+| 3rd pl. alt. | fu-**ēre** | ī-**ēre** | tul-**ēre** | volu-**ēre** | nōlu-**ēre** | mālu-**ēre** |
 
 ### Pluperfect Active Indicative
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | i-**eram** | tul-**eram** | volu-**eram** | nōlu-**eram** | mālu-**eram** |
-| 2nd sg. | i-**erās** | tul-**erās** | volu-**erās** | nōlu-**erās** | mālu-**erās** |
-| 3rd sg. | i-**erat** | tul-**erat** | volu-**erat** | nōlu-**erat** | mālu-**erat** |
-| 1st pl. | i-**erāmus** | tul-**erāmus** | volu-**erāmus** | nōlu-**erāmus** | mālu-**erāmus** |
-| 2nd pl. | i-**erātis** | tul-**erātis** | volu-**erātis** | nōlu-**erātis** | mālu-**erātis** |
-| 3rd pl. | i-**erant** | tul-**erant** | volu-**erant** | nōlu-**erant** | mālu-**erant** |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | fu-**eram** | i-**eram** | tul-**eram** | volu-**eram** | nōlu-**eram** | mālu-**eram** |
+| 2nd sg. | fu-**erās** | i-**erās** | tul-**erās** | volu-**erās** | nōlu-**erās** | mālu-**erās** |
+| 3rd sg. | fu-**erat** | i-**erat** | tul-**erat** | volu-**erat** | nōlu-**erat** | mālu-**erat** |
+| 1st pl. | fu-**erāmus** | i-**erāmus** | tul-**erāmus** | volu-**erāmus** | nōlu-**erāmus** | mālu-**erāmus** |
+| 2nd pl. | fu-**erātis** | i-**erātis** | tul-**erātis** | volu-**erātis** | nōlu-**erātis** | mālu-**erātis** |
+| 3rd pl. | fu-**erant** | i-**erant** | tul-**erant** | volu-**erant** | nōlu-**erant** | mālu-**erant** |
 
 ### Future Perfect Active Indicative
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | i-**erō** | tul-**erō** | volu-**erō** | nōlu-**erō** | mālu-**erō** |
-| 2nd sg. | i-**eris** | tul-**eris** | volu-**eris** | nōlu-**eris** | mālu-**eris** |
-| 3rd sg. | i-**erit** | tul-**erit** | volu-**erit** | nōlu-**erit** | mālu-**erit** |
-| 1st pl. | i-**erimus** | tul-**erimus** | volu-**erimus** | nōlu-**erimus** | mālu-**erimus** |
-| 2nd pl. | i-**eritis** | tul-**eritis** | volu-**eritis** | nōlu-**eritis** | mālu-**eritis** |
-| 3rd pl. | i-**erint** | tul-**erint** | volu-**erint** | nōlu-**erint** | mālu-**erint** |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | fu-**erō** | i-**erō** | tul-**erō** | volu-**erō** | nōlu-**erō** | mālu-**erō** |
+| 2nd sg. | fu-**eris** | i-**eris** | tul-**eris** | volu-**eris** | nōlu-**eris** | mālu-**eris** |
+| 3rd sg. | fu-**erit** | i-**erit** | tul-**erit** | volu-**erit** | nōlu-**erit** | mālu-**erit** |
+| 1st pl. | fu-**erimus** | i-**erimus** | tul-**erimus** | volu-**erimus** | nōlu-**erimus** | mālu-**erimus** |
+| 2nd pl. | fu-**eritis** | i-**eritis** | tul-**eritis** | volu-**eritis** | nōlu-**eritis** | mālu-**eritis** |
+| 3rd pl. | fu-**erint** | i-**erint** | tul-**erint** | volu-**erint** | nōlu-**erint** | mālu-**erint** |
 
 ***
 
@@ -148,47 +149,47 @@ nav_order: 5
 
 ### Present Active Subjunctive
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | eam | feram | velim | nōlim | mālim |
-| 2nd sg. | eās | ferās | velīs | nōlīs | mālīs |
-| 3rd sg. | eat | ferat | velit | nōlit | mālit |
-| 1st pl. | eāmus | ferāmus | velīmus | nōlīmus | mālīmus |
-| 2nd pl. | eātis | ferātis | velītis | nōlītis | mālītis |
-| 3rd pl. | eant | ferant | velint | nōlint | mālint |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | sim | eam | feram | velim | nōlim | mālim |
+| 2nd sg. | sīs | eās | ferās | velīs | nōlīs | mālīs |
+| 3rd sg. | sit | eat | ferat | velit | nōlit | mālit |
+| 1st pl. | sīmus | eāmus | ferāmus | velīmus | nōlīmus | mālīmus |
+| 2nd pl. | sītis | eātis | ferātis | velītis | nōlītis | mālītis |
+| 3rd pl. | sint | eant | ferant | velint | nōlint | mālint |
 
 ### Imperfect Active Subjunctive
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | īrem | ferrem | vellem | nōllem | māllem |
-| 2nd sg. | īrēs | ferrēs | vellēs | nōllēs | māllēs |
-| 3rd sg. | īret | ferret | vellet | nōllet | māllet |
-| 1st pl. | īrēmus | ferrēmus | vellēmus | nōllēmus | māllēmus |
-| 2nd pl. | īrētis | ferrētis | vellētis | nōllētis | māllētis |
-| 3rd pl. | īrent | ferrent | vellent | nōllent | māllent |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | essem | īrem | ferrem | vellem | nōllem | māllem |
+| 2nd sg. | essēs | īrēs | ferrēs | vellēs | nōllēs | māllēs |
+| 3rd sg. | esset | īret | ferret | vellet | nōllet | māllet |
+| 1st pl. | essēmus | īrēmus | ferrēmus | vellēmus | nōllēmus | māllēmus |
+| 2nd pl. | essētis | īrētis | ferrētis | vellētis | nōllētis | māllētis |
+| 3rd pl. | essent | īrent | ferrent | vellent | nōllent | māllent |
 
 ### Perfect Active Subjunctive
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | i-**erim** | tul-**erim** | volu-**erim** | nōlu-**erim** | mālu-**erim** |
-| 2nd sg. | i-**erīs** | tul-**erīs** | volu-**erīs** | nōlu-**erīs** | mālu-**erīs** |
-| 3rd sg. | i-**erit** | tul-**erit** | volu-**erit** | nōlu-**erit** | mālu-**erit** |
-| 1st pl. | i-**erīmus** | tul-**erīmus** | volu-**erīmus** | nōlu-**erīmus** | mālu-**erīmus** |
-| 2nd pl. | i-**erītis** | tul-**erītis** | volu-**erītis** | nōlu-**erītis** | mālu-**erītis** |
-| 3rd pl. | i-**erint** | tul-**erint** | volu-**erint** | nōlu-**erint** | mālu-**erint** |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | fu-**erim** | i-**erim** | tul-**erim** | volu-**erim** | nōlu-**erim** | mālu-**erim** |
+| 2nd sg. | fu-**erīs** | i-**erīs** | tul-**erīs** | volu-**erīs** | nōlu-**erīs** | mālu-**erīs** |
+| 3rd sg. | fu-**erit** | i-**erit** | tul-**erit** | volu-**erit** | nōlu-**erit** | mālu-**erit** |
+| 1st pl. | fu-**erīmus** | i-**erīmus** | tul-**erīmus** | volu-**erīmus** | nōlu-**erīmus** | mālu-**erīmus** |
+| 2nd pl. | fu-**erītis** | i-**erītis** | tul-**erītis** | volu-**erītis** | nōlu-**erītis** | mālu-**erītis** |
+| 3rd pl. | fu-**erint** | i-**erint** | tul-**erint** | volu-**erint** | nōlu-**erint** | mālu-**erint** |
 
 ### Pluperfect Active Subjunctive
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | īssem | tul-**issem** | volu-**issem** | nōlu-**issem** | mālu-**issem** |
-| 2nd sg. | īssēs | tul-**issēs** | volu-**issēs** | nōlu-**issēs** | mālu-**issēs** |
-| 3rd sg. | īsset | tul-**isset** | volu-**isset** | nōlu-**isset** | mālu-**isset** |
-| 1st pl. | īssēmus | tul-**issēmus** | volu-**issēmus** | nōlu-**issēmus** | mālu-**issēmus** |
-| 2nd pl. | īssētis | tul-**issētis** | volu-**issētis** | nōlu-**issētis** | mālu-**issētis** |
-| 3rd pl. | īssent | tul-**issent** | volu-**issent** | nōlu-**issent** | mālu-**issent** |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | fu-**issem** | īssem | tul-**issem** | volu-**issem** | nōlu-**issem** | mālu-**issem** |
+| 2nd sg. | fu-**issēs** | īssēs | tul-**issēs** | volu-**issēs** | nōlu-**issēs** | mālu-**issēs** |
+| 3rd sg. | fu-**isset** | īsset | tul-**isset** | volu-**isset** | nōlu-**isset** | mālu-**isset** |
+| 1st pl. | fu-**issēmus** | īssēmus | tul-**issēmus** | volu-**issēmus** | nōlu-**issēmus** | mālu-**issēmus** |
+| 2nd pl. | fu-**issētis** | īssētis | tul-**issētis** | volu-**issētis** | nōlu-**issētis** | mālu-**issētis** |
+| 3rd pl. | fu-**issent** | īssent | tul-**issent** | volu-**issent** | nōlu-**issent** | mālu-**issent** |
 
 ***
 
@@ -230,14 +231,14 @@ nav_order: 5
 
 ## Infinitives
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
+|     | sum | eō  | ferō  | volō  | nōlō  | mālō  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Pres. Act. | īre | ferre | velle | nolle | malle |
-| Pres. Pass. |  | ferrī |  |  |  |
-| Perf. Act. | īsse | tulisse | voluisse | nōluisse | māluisse |
-| Perf. Pass. |  | lātus esse |  |  |  |  |
-| Fut. Act. | itūrus esse | lātūrus esse | | | | |
-| Fut. Pass. | | lātum īrī | | | |
+| Pres. Act. | esse | īre | ferre | velle | nolle | malle |
+| Pres. Pass. | | | ferrī |  |  |  |
+| Perf. Act. | fuisse | īsse | tulisse | voluisse | nōluisse | māluisse |
+| Perf. Pass. | | | lātus esse |  |  |  |  |
+| Fut. Act. | futūrus esse / fōre | itūrus esse | lātūrus esse | | | | |
+| Fut. Pass. | | | lātum īrī | | | |
 
 ***
 

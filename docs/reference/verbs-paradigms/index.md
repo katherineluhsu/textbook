@@ -18,7 +18,6 @@ nav_order: 4
 - 3rd Conjugation: *regō*, *regere*, *rexī*, *rectus* - to rule
 - 3rd -iō Conjugation: *capiō*, *capere*, *cēpī*, *captus* - to take, seize
 - 4th Conjugation: *audiō*, *audīre*, *audīvī*, *audītus* - to hear
-- Irregular: *sum*, *esse*, *fuī*, *futūrus* - to be
 
 ***
 
@@ -26,70 +25,70 @@ nav_order: 4
 
 ### Present Active Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | am-**ō** | mone-**ō** | reg-**ō** | capi-**ō** | audi-**ō** | sum |
-| 2nd sg. | amā-**s** | monē-**s** | regi-**s** | capi-**s** | audī-**s** | es |
-| 3rd sg. | ama-**t** | mone-**t** | regi-**t** | capi-**t** | audi-**t** | est |
-| 1st pl. | amā-**mus** | monē-**mus** | regi-**mus** | capi-**mus** | audī-**mus** | sumus |
-| 2nd pl. | amā-**tis** | monē-**tis** | regi-**tis** | capi-**tis** | audī-**tis** | estis |
-| 3rd pl. | ama-**nt** | mone-**nt** | regu-**nt** | capiu-**nt** | audiu-**nt** | sunt |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | am-**ō** | mone-**ō** | reg-**ō** | capi-**ō** | audi-**ō** |
+| 2nd sg. | amā-**s** | monē-**s** | regi-**s** | capi-**s** | audī-**s** |
+| 3rd sg. | ama-**t** | mone-**t** | regi-**t** | capi-**t** | audi-**t** |
+| 1st pl. | amā-**mus** | monē-**mus** | regi-**mus** | capi-**mus** | audī-**mus** |
+| 2nd pl. | amā-**tis** | monē-**tis** | regi-**tis** | capi-**tis** | audī-**tis** |
+| 3rd pl. | ama-**nt** | mone-**nt** | regu-**nt** | capiu-**nt** | audiu-**nt** |
 
 ### Imperfect Active Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amā-**bam** | monē-**bam** | regē-**bam** | capiē-**bam** | audiē-**bam** | eram |
-| 2nd sg. | amā-**bās** | monē-**bās** | regē-**bās** | capiē-**bās** | audiē-**bās** | erās |
-| 3rd sg. | amā-**bat** | monē-**bat** | regē-**bat** | capiē-**bat** | audiē-**bat** | erat |
-| 1st pl. | amā-**bāmus** | monē-**bāmus** | regē-**bāmus** | capiē-**bāmus** | audiē-**bāmus** | erāmus |
-| 2nd pl. | amā-**bātis** | monē-**bātis** | regē-**bātis** | capiē-**bātis** | audiē-**bātis** | erātis |
-| 3rd pl. | amā-**bant** | monē-**bant** | regē-**bant** | capiē-**bant** | audiē-**bant** | erant |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amā-**bam** | monē-**bam** | regē-**bam** | capiē-**bam** | audiē-**bam** |
+| 2nd sg. | amā-**bās** | monē-**bās** | regē-**bās** | capiē-**bās** | audiē-**bās** |
+| 3rd sg. | amā-**bat** | monē-**bat** | regē-**bat** | capiē-**bat** | audiē-**bat** |
+| 1st pl. | amā-**bāmus** | monē-**bāmus** | regē-**bāmus** | capiē-**bāmus** | audiē-**bāmus** |
+| 2nd pl. | amā-**bātis** | monē-**bātis** | regē-**bātis** | capiē-**bātis** | audiē-**bātis** |
+| 3rd pl. | amā-**bant** | monē-**bant** | regē-**bant** | capiē-**bant** | audiē-**bant** |
 
 ### Future Active Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amā-**bō** | monē-**bō** | reg-**am** | capi-**am** | audi-**am** | erō |
-| 2nd sg. | amā-**bis** | monē-**bis** | reg-**ēs** | capi-**ēs** | audi-**ēs** | eris |
-| 3rd sg. | amā-**bit** | monē-**bit** | reg-**et** | capi-**et** | audi-**et** | erit |
-| 1st pl. | amā-**bimus** | monē-**bimus** | reg-**ēmus** | capi-**ēmus** | audi-**ēmus** | erimus |
-| 2nd pl. | amā-**bitis** | monē-**bitis** | reg-**ētis** | capi-**ētis** | audi-**ētis** | eritis |
-| 3rd pl. | amā-**bunt** | monē-**bunt** | reg-**ent** | capi-**ent** | audi-**ent** | erunt |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amā-**bō** | monē-**bō** | reg-**am** | capi-**am** | audi-**am** |
+| 2nd sg. | amā-**bis** | monē-**bis** | reg-**ēs** | capi-**ēs** | audi-**ēs** |
+| 3rd sg. | amā-**bit** | monē-**bit** | reg-**et** | capi-**et** | audi-**et** |
+| 1st pl. | amā-**bimus** | monē-**bimus** | reg-**ēmus** | capi-**ēmus** | audi-**ēmus** |
+| 2nd pl. | amā-**bitis** | monē-**bitis** | reg-**ētis** | capi-**ētis** | audi-**ētis** |
+| 3rd pl. | amā-**bunt** | monē-**bunt** | reg-**ent** | capi-**ent** | audi-**ent** |
 
 ### Perfect Active Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāv-**ī** | monu-**ī** | rex-**ī** | cēp-**ī** | audīv-**ī** | fu-**ī** |
-| 2nd sg. | amāv-**istī** | monu-**istī** | rex-**istī** | cēp-**istī** | audīv-**istī** | fu-**istī** |
-| 3rd sg. | amāv-**it** | monu-**it** | rex-**it** | cēp-**it** | audīv-**it** | fu-**it** |
-| 1st pl. | amāv-**imus** | monu-**imus** | rex-**imus** | cēp-**imus** | audīv-**imus** | fu-**imus** |
-| 2nd pl. | amāv-**istis** | monu-**istis** | rex-**istis** | cēp-**istis** | audīv-**istis** | fu-**istis** |
-| 3rd pl. | amāv-**ērunt** | monu-**ērunt** | rex-**ērunt** | cēp-**ērunt** | audīv-**ērunt** | fu-**ērunt** |
-| 3rd pl. alt. | amāv-**ēre** | monu-**ēre** | rex-**ēre** | cēp-**ēre** | audiv-**ēre** | fu-**ēre** |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**ī** | monu-**ī** | rex-**ī** | cēp-**ī** | audīv-**ī** |
+| 2nd sg. | amāv-**istī** | monu-**istī** | rex-**istī** | cēp-**istī** | audīv-**istī** |
+| 3rd sg. | amāv-**it** | monu-**it** | rex-**it** | cēp-**it** | audīv-**it** |
+| 1st pl. | amāv-**imus** | monu-**imus** | rex-**imus** | cēp-**imus** | audīv-**imus** |
+| 2nd pl. | amāv-**istis** | monu-**istis** | rex-**istis** | cēp-**istis** | audīv-**istis** |
+| 3rd pl. | amāv-**ērunt** | monu-**ērunt** | rex-**ērunt** | cēp-**ērunt** | audīv-**ērunt** |
+| 3rd pl. alt. | amāv-**ēre** | monu-**ēre** | rex-**ēre** | cēp-**ēre** | audiv-**ēre** |
 
 ### Pluperfect Active Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāv-**eram** | monu-**eram** | rex-**eram** | cēp-**eram** | audīv-**eram** | fu-**eram** |
-| 2nd sg. | amāv-**erās** | monu-**erās** | rex-**erās** | cēp-**erās** | audīv-**erās** | fu-**erās** |
-| 3rd sg. | amāv-**erat** | monu-**erat** | rex-**erat** | cēp-**erat** | audīv-**erat** | fu-**erat** |
-| 1st pl. | amāv-**erāmus** | monu-**erāmus** | rex-**erāmus** | cēp-**erāmus** | audīv-**erāmus** | fu-**erāmus** |
-| 2nd pl. | amāv-**erātis** | monu-**erātis** | rex-**erātis** | cēp-**erātis** | audīv-**erātis** | fu-**erātis** |
-| 3rd pl. | amāv-**erant** | monu-**erant** | rex-**erant** | cēp-**erant** | audīv-**erant** | fu-**erant** |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**eram** | monu-**eram** | rex-**eram** | cēp-**eram** | audīv-**eram** |
+| 2nd sg. | amāv-**erās** | monu-**erās** | rex-**erās** | cēp-**erās** | audīv-**erās** |
+| 3rd sg. | amāv-**erat** | monu-**erat** | rex-**erat** | cēp-**erat** | audīv-**erat** |
+| 1st pl. | amāv-**erāmus** | monu-**erāmus** | rex-**erāmus** | cēp-**erāmus** | audīv-**erāmus** |
+| 2nd pl. | amāv-**erātis** | monu-**erātis** | rex-**erātis** | cēp-**erātis** | audīv-**erātis** |
+| 3rd pl. | amāv-**erant** | monu-**erant** | rex-**erant** | cēp-**erant** | audīv-**erant** |
 
 ### Future Perfect Active Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāv-**erō** | monu-**erō** | rex-**erō** | cēp-**erō** | audīv-**erō** | fu-**erō** |
-| 2nd sg. | amāv-**eris** | monu-**eris** | rex-**eris** | cēp-**eris** | audīv-**eris** | fu-**eris** |
-| 3rd sg. | amāv-**erit** | monu-**erit** | rex-**erit** | cēp-**erit** | audīv-**erit** | fu-**erit** |
-| 1st pl. | amāv-**erimus** | monu-**erimus** | rex-**erimus** | cēp-**erimus** | audīv-**erimus** | fu-**erimus** |
-| 2nd pl. | amāv-**eritis** | monu-**eritis** | rex-**eritis** | cēp-**eritis** | audīv-**eritis** | fu-**eritis** |
-| 3rd pl. | amāv-**erint** | monu-**erint** | rex-**erint** | cēp-**erint** | audīv-**erint** | fu-**erint** |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**erō** | monu-**erō** | rex-**erō** | cēp-**erō** | audīv-**erō** |
+| 2nd sg. | amāv-**eris** | monu-**eris** | rex-**eris** | cēp-**eris** | audīv-**eris** |
+| 3rd sg. | amāv-**erit** | monu-**erit** | rex-**erit** | cēp-**erit** | audīv-**erit** |
+| 1st pl. | amāv-**erimus** | monu-**erimus** | rex-**erimus** | cēp-**erimus** | audīv-**erimus** |
+| 2nd pl. | amāv-**eritis** | monu-**eritis** | rex-**eritis** | cēp-**eritis** | audīv-**eritis** |
+| 3rd pl. | amāv-**erint** | monu-**erint** | rex-**erint** | cēp-**erint** | audīv-**erint** |
 
 ***
 
@@ -169,47 +168,47 @@ nav_order: 4
 
 Stem vowel changes are included in the bolded endings.
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | am-**em** | mon-**eam** | reg-**am** | cap-**iam** | aud-**iam** | sim |
-| 2nd sg. | am-**ēs** | mon-**eās** | reg-**ās** | cap-**iās** | aud-**iās** | sīs |
-| 3rd sg. | am-**et** | mon-**eat** | reg-**at** | cap-**iat** | aud-**iat** | sit |
-| 1st pl. | am-**ēmus** | mon-**eāmus** | reg-**āmus** | cap-**iāmus** | aud-**iāmus** | sīmus |
-| 2nd pl. | am-**ētis** | mon-**eātis** | reg-**ātis** | cap-**iātis** | aud-**iātis** | sītis |
-| 3rd pl. | am-**ent** | mon-**eant** | reg-**ant** | cap-**iant** | aud-**iant** | sint |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | am-**em** | mon-**eam** | reg-**am** | cap-**iam** | aud-**iam** |
+| 2nd sg. | am-**ēs** | mon-**eās** | reg-**ās** | cap-**iās** | aud-**iās** |
+| 3rd sg. | am-**et** | mon-**eat** | reg-**at** | cap-**iat** | aud-**iat** |
+| 1st pl. | am-**ēmus** | mon-**eāmus** | reg-**āmus** | cap-**iāmus** | aud-**iāmus** |
+| 2nd pl. | am-**ētis** | mon-**eātis** | reg-**ātis** | cap-**iātis** | aud-**iātis** |
+| 3rd pl. | am-**ent** | mon-**eant** | reg-**ant** | cap-**iant** | aud-**iant** |
 
 ### Imperfect Active Subjunctive
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāre-**m** | monēre-**m** | regere-**m** | capere-**m** | audīre-**m** | essem |
-| 2nd sg. | amārē-**s** | monērē-*s** | regerē-**s** | caperē-**s** | audīrē-**s** | essēs |
-| 3rd sg. | amāre-**t** | monēre-**t** | regere-**t** | capere-**t** | audīre-**t** | esset |
-| 1st pl. | amārē-**mus** | monērē-**mus** | regerē-**mus** | caperē-**mus** | audīrē-**mus** | essēmus |
-| 2nd pl. | amārē-**tis** | monērē-**tis** | regerē-**tis** | caperē-**tis** | audīrē-**tis** | essētis |
-| 3rd pl. | amāre-**ntur** | monēre-**ntur** | regere-**ntur** | capere-**ntur** | audīre-**ntur** | essent |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāre-**m** | monēre-**m** | regere-**m** | capere-**m** | audīre-**m** |
+| 2nd sg. | amārē-**s** | monērē-**s** | regerē-**s** | caperē-**s** | audīrē-**s** |
+| 3rd sg. | amāre-**t** | monēre-**t** | regere-**t** | capere-**t** | audīre-**t** |
+| 1st pl. | amārē-**mus** | monērē-**mus** | regerē-**mus** | caperē-**mus** | audīrē-**mus** |
+| 2nd pl. | amārē-**tis** | monērē-**tis** | regerē-**tis** | caperē-**tis** | audīrē-**tis** |
+| 3rd pl. | amāre-**ntur** | monēre-**ntur** | regere-**ntur** | capere-**ntur** | audīre-**ntur** |
 
 ### Perfect Active Subjunctive
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāv-**erim** | monu-**erim** | rex-**erim** | cēp-**erim** | audīv-**erim** | fu-**erim** |
-| 2nd sg. | amāv-**erīs** | monu-**erīs** | rex-**erīs** | cēp-**erīs** | audīv-**erīs** | fu-**erīs** |
-| 3rd sg. | amāv-**erit** | monu-**erit** | rex-**erit** | cēp-**erit** | audīv-**erit** | fu-**erit** |
-| 1st pl. | amāv-**erīmus** | monu-**erīmus** | rex-**erīmus** | cēp-**erīmus** | audīv-**erīmus** | fu-**erīmus** |
-| 2nd pl. | amāv-**erītis** | monu-**erītis** | rex-**erītis** | cēp-**erītis** | audīv-**erītis** | fu-**erītis** |
-| 3rd pl. | amāv-**erint** | monu-**erint** | rex-**erint** | cēp-**erint** | audīv-**erint** | fu-**erint** |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**erim** | monu-**erim** | rex-**erim** | cēp-**erim** | audīv-**erim** |
+| 2nd sg. | amāv-**erīs** | monu-**erīs** | rex-**erīs** | cēp-**erīs** | audīv-**erīs** |
+| 3rd sg. | amāv-**erit** | monu-**erit** | rex-**erit** | cēp-**erit** | audīv-**erit** |
+| 1st pl. | amāv-**erīmus** | monu-**erīmus** | rex-**erīmus** | cēp-**erīmus** | audīv-**erīmus** |
+| 2nd pl. | amāv-**erītis** | monu-**erītis** | rex-**erītis** | cēp-**erītis** | audīv-**erītis** |
+| 3rd pl. | amāv-**erint** | monu-**erint** | rex-**erint** | cēp-**erint** | audīv-**erint** |
 
 ### Pluperfect Active Subjunctive
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāv-**issem** | monu-**issem** | rex-**issem** | cēp-**issem** | audīv-**issem** | fu-**issem** |
-| 2nd sg. | amāv-**issēs** | monu-**issēs** | rex-**issēs** | cēp-**issēs** | audīv-**issēs** | fu-**issēs** |
-| 3rd sg. | amāv-**isset** | monu-**isset** | rex-**isset** | cēp-**isset** | audīv-**isset** | fu-**isset** |
-| 1st pl. | amāv-**issēmus** | monu-**issēmus** | rex-**issēmus** | cēp-**issēmus** | audīv-**issēmus** | fu-**issēmus** |
-| 2nd pl. | amāv-**issētis** | monu-**issētis** | rex-**issētis** | cēp-**issētis** | audīv-**issētis** | fu-**issētis** |
-| 3rd pl. | amāv-**issent** | monu-**issent** | rex-**issent** | cēp-**issent** | audīv-**issent** | fu-**issent** |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**issem** | monu-**issem** | rex-**issem** | cēp-**issem** | audīv-**issem** |
+| 2nd sg. | amāv-**issēs** | monu-**issēs** | rex-**issēs** | cēp-**issēs** | audīv-**issēs** |
+| 3rd sg. | amāv-**isset** | monu-**isset** | rex-**isset** | cēp-**isset** | audīv-**isset** |
+| 1st pl. | amāv-**issēmus** | monu-**issēmus** | rex-**issēmus** | cēp-**issēmus** | audīv-**issēmus** |
+| 2nd pl. | amāv-**issētis** | monu-**issētis** | rex-**issētis** | cēp-**issētis** | audīv-**issētis** |
+| 3rd pl. | amāv-**issent** | monu-**issent** | rex-**issent** | cēp-**issent** | audīv-**issent** |
 
 ***
 
@@ -265,14 +264,14 @@ Stem vowel changes are included in the bolded endings.
 
 ## Infinitives
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Pres. Act. | amāre | monēre | regere | capere | audīre | esse |
-| Pres. Pass. | amārī | monērī | regī | capī | audīrī | |
-| Perf. Act. | amāvisse | monuisse | rexisse | cēpisse | audīvisse | fuīsse |
-| Perf. Pass. | amātus esse | monitus esse | rectus esse | captus esse | audītus esse | |
-| Fut. Act. | amātūrus esse | monitūrus esse | rectūrus esse | captūrus esse | audītūrus esse | futūrus esse / fōre |
-| Fut. Pass. | amātum irī | monitum irī | rectum irī | captum irī | audītum irī | |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Pres. Act. | amāre | monēre | regere | capere | audīre |
+| Pres. Pass. | amārī | monērī | regī | capī | audīrī |
+| Perf. Act. | amāvisse | monuisse | rexisse | cēpisse | audīvisse |
+| Perf. Pass. | amātus esse | monitus esse | rectus esse | captus esse | audītus esse |
+| Fut. Act. | amātūrus esse | monitūrus esse | rectūrus esse | captūrus esse | audītūrus esse |
+| Fut. Pass. | amātum irī | monitum irī | rectum irī | captum irī | audītum irī |
 
 ***
 
