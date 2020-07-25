@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Temporal Clauses, Personal Pronouns, Deponent and Irregular Verbs - Vocabulary
+title: Temporal Clauses, Pronouns, Deponents, and Irregular Verbs - Vocabulary
 parent: Vocabulary lists
 nav_order: 8
 ---
 
-# Temporal Clauses; Personal Pronouns, Deponent and Irregular Verbs - Vocabulary
+# Temporal Clauses; Pronouns, Deponent and Irregular Verbs - Vocabulary
 
 ***
 
