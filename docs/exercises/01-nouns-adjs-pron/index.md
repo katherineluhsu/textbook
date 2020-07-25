@@ -27,7 +27,7 @@ What declension does each of the following nouns belong to?
 
 ## Nominative and Genitive
 
-Translate the following phrases or sentences into English. Consult your [vocabulary](../../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts](../../charts/1-nouns) and [adjective declension charts](../../charts/1-adjectives) for this module if needed.
+Translate the following phrases or sentences into English. Consult your [vocabulary](#) for words with which you are unfamiliar and your [noun declension charts](../../reference/nouns-paradigms/), [pronoun declension charts](../../reference/pronouns-paradigms/) and [adjective declension charts](../../reference/adjectives-paradigms/) for this module if needed.
 
 Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
@@ -75,7 +75,7 @@ What type of adjective is each of the following?
 
 ## Pronouns
 
-Substitute each of the following words with a form of *is*, *ea*, *id* that matches it in **gender**, **case**, and **number**. Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*](../../charts/1-nouns#pronouns), the [general noun declension charts](../../charts/1-nouns), and your [Module 1 vocabulary](../../vocab/1) for help.
+Substitute each of the following words with a form of *is*, *ea*, *id* that matches it in **gender**, **case**, and **number**. Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*](../../reference/pronouns-paradigms.html#is-ea-id---he-she-it-they-3rd-person), the [general noun declension charts](../../reference/nouns-paradigms/), and your [Module 1 vocabulary](#) for help.
 
 1. *exemplum*  
 <button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">*id*</span>
@@ -90,3 +90,10 @@ Substitute each of the following words with a form of *is*, *ea*, *id* that matc
 <button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">*eōrum*</span>
 
 [Back to top.](#top)
+
+<script>
+function toggleDisplay(id) {
+  const el = document.getElementById(id);
+  el.style.display = el.style.display === 'none' ? 'inline' : 'none';
+}
+</script>

@@ -229,3 +229,10 @@ Determine the sentence structure of the following sentences; identify any *nouns
 <button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">transitive; *fīliō* = dative, *potestātem* = accusative; "The king will give power to his own son."</span>
 
 [Back to top.](#top)
+
+<script>
+function toggleDisplay(id) {
+  const el = document.getElementById(id);
+  el.style.display = el.style.display === 'none' ? 'inline' : 'none';
+}
+</script>

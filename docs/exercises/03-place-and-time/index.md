@@ -43,3 +43,10 @@ Identify the bolded expression of time and translate the sentence.
 <button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">time within which; "The king and queen arrived at the camp within four hours."</span>
 
 [Back to top.](#top)
+
+<script>
+function toggleDisplay(id) {
+  const el = document.getElementById(id);
+  el.style.display = el.style.display === 'none' ? 'inline' : 'none';
+}
+</script>
