@@ -75,7 +75,7 @@ What type of adjective is each of the following?
 
 ## Pronouns
 
-Substitute each of the following words with a form of *is*, *ea*, *id* that matches it in **gender**, **case**, and **number**. Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*](../../reference/pronouns-paradigms.html#is-ea-id---he-she-it-they-3rd-person), the [general noun declension charts](../../reference/nouns-paradigms/), and your [Module 1 vocabulary](#) for help.
+Substitute each of the following words with a form of *is*, *ea*, *id* that matches it in **gender**, **case**, and **number**. Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*](../../reference/pronouns-paradigms#is-ea-id---he-she-it-they-3rd-person), the [general noun declension charts](../../reference/nouns-paradigms/), and your [Module 1 vocabulary](#) for help.
 
 1. *exemplum*  
 <button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">*id*</span>

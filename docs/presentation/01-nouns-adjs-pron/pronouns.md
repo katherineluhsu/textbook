@@ -37,7 +37,7 @@ The most common Latin pronoun is *is, ea, id* ("he", "she", "it", "they"). It is
 
 The dictionary entry for *is, ea, id* represents the nominative singular forms for all three genders (once again, masculine, feminine, and neuter from left to right), so it works similarly to an adjective.
 
-The declension chart for *is*, *ea*, *id* can be found [here](../../reference/pronouns-paradigms.html#is-ea-id---he-she-it-they-3rd-person).
+The declension chart for *is*, *ea*, *id* can be found [here](../../reference/pronouns-paradigms#is-ea-id---he-she-it-they-3rd-person).
 
 ***
 
@@ -53,7 +53,7 @@ The demonstrative *hic, haec, hoc*, "this, these", points out something that is 
 - *hic* (masculine nominative singular), "this man"
 - *hī* (masculine nominative plural), "these men" or "these people"
 
-And here is the [paradigm chart](reference/pronouns-paradigms.html#hic-haec-hoc---this-these) for *hic*.
+And here is the [paradigm chart](reference/pronouns-paradigms#hic-haec-hoc---this-these) for *hic*.
 
 The demonstrative *ille, illa, illud*, "that, those", points out something that is far away from the speaker.
 
@@ -63,7 +63,7 @@ The demonstrative *ille, illa, illud*, "that, those", points out something that 
 - *illae* (feminine nominative plural), "those women"
 - *illa*, "that woman" (if feminine nominative singular) or "those things" (if neuter nominative plural)
 
-And here is the [paradigm chart](reference/pronouns-paradigms.html#ille-illa-illud---that-those) for *ille*.
+And here is the [paradigm chart](reference/pronouns-paradigms#ille-illa-illud---that-those) for *ille*.
 
 The demonstratives can also be used in conjunction to indicate "the former ... the latter" with *ille* first and *hic* second:
 
