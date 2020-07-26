@@ -31,7 +31,7 @@ The most common way to express purpose in Latin is through a purpose clause. Pur
 
 - A subordinating conjunction (**ut** for a positive purpose clause or **ne** for a negative purpose clause)
 - A subject (stated or implied)
-- A verb in the present or imperfect subjunctive
+- A verb in the **present** or **imperfect subjunctive**, depending on the [**sequence of tenses**](../08-temporal-clauses/#subjunctive-verbs-and-the-sequence-of-tenses/)
 
 How do we translate a sentence containing a purpose clause? Take the following example:
 
