@@ -48,7 +48,7 @@ Thus, we need to add a **direct object** to tell us what the farmer was making. 
 
 Agricola ***pizzam*** fēcit.
 
-Head to the [noun paradigm charts](../../reference/nouns-paradigms) and [adjective paradigm charts](../../reference/adjectives-paradigms) to familiarize yourself with the **accusative** endings in the singular and plural of each declension and adjective grouping.
+Head to the [noun paradigm charts](../../../reference/nouns-paradigms) and [adjective paradigm charts](../../../reference/adjectives-paradigms) to familiarize yourself with the **accusative** endings in the singular and plural of each declension and adjective grouping.
 
 Below are some further examples of transitive sentences with accusative direct objects:
 
@@ -63,7 +63,7 @@ Sometimes, you will want to specify the recipient of the action of the verb. For
 
 Literally, the sentence is "The farmer gave a pizza **to the girl**."
 
-Head to the [noun paradigm charts](../../reference/nouns-paradigms) and [adjective paradigm charts](../../reference/adjectives-paradigms) to familiarize yourself with the **dative** endings in the singular and plural of each declension and adjective grouping.
+Head to the [noun paradigm charts](../../../reference/nouns-paradigms) and [adjective paradigm charts](../../../reference/adjectives-paradigms) to familiarize yourself with the **dative** endings in the singular and plural of each declension and adjective grouping.
 
 To summarize, transitive sentences must have a:
 * Subject
@@ -87,7 +87,7 @@ Sometimes, passive sentences feature a construction known as the **ablative of a
 * Puella **ab matre** visa est. ("The girl was seen by her mother.")
 * Virī **ā fēminīs** captī sunt. ("The men were captured by the women.")
 
-Head to the [noun paradigm charts](../../reference/nouns-paradigms) and [adjective paradigm charts](../../reference/adjectives-paradigms) to familiarize yourself with the **ablative** endings in the singular and plural of each declension and adjective grouping.
+Head to the [noun paradigm charts](../../../reference/nouns-paradigms) and [adjective paradigm charts](../../../reference/adjectives-paradigms) to familiarize yourself with the **ablative** endings in the singular and plural of each declension and adjective grouping.
 
 Passive sentences can also feature an **indirect object** in the **dative case** as well. For example, we might see a sentence like the following:
 
