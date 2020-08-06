@@ -1,6 +1,6 @@
 # textbook
 
-"Textbook" and digital teaching resources for a [collaborative project on Latin pedagogy](https://lingualatina.github.io/).
+"Textbook" and digital teaching resources for the [*Lingua Latina Legenda](https://lingualatina.github.io/) project.
 
 
 See <https://lingualatina.github.io/textbook>.
