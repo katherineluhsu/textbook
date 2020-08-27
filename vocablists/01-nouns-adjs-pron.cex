@@ -1,0 +1,43 @@
+id#entry
+ls.n16796:exemplum#exemplum, exemplī n. - example
+ls.n18173:filia#fīlia, fīliae f. - daughter
+ls.n18185:filius#fīlius, fīliī m. - son
+ls.n18705:frater#frāter, frātris m. - brother
+ls.n20866:homo#homō, hominis m. - human, man
+ls.n28054:maritus#maritus, maritī m. - husband
+ls.n28181:mater#māter, mātris f. - mother
+ls.n29619:monstrum#monstrum, monstrī n. - monster, beast
+ls.n31131:nomen#nōmen, nōminis, n. - name
+ls.n33843:parens2#parēns, parentis m./f. - parent
+ls.n34096:pater#pāter, pātris m. - father
+ls.n39421:puella#puella, puellae f. - girl
+ls.n39429:puer#puer, puerī m. - boy
+ls.n40899:regina#rēgīna, rēgīnae f. - queen
+ls.n41625:rex1#rēx, rēgis m. - king
+ls.n44798:soror#soror, sorōris f. - sister
+ls.n50039:uxor#uxor, uxōris f. - wife
+
+
+ls.n435#ācer, ācris, ācre - keen, sharp
+ls.n5558:bonus#bonus, bona, bonum - good
+ls.n20640:hic#hic, haec, hoc (irregular) - this, these
+ls.n21494:ille#ille, illa, illud (irregular) - that, those (as opposed to hic, haec, hoc)
+ls.n24872:ipse#ipse, ipsa, ipsum - very, the same, -self (emphasizes the word it modifies)
+ls.n25653:laetus1#laetus, laeta, laetum - happy
+ls.n27649:magnus1#magnus, magna, magnum - great
+ls.n28988:meus#meus, mea, meum - my
+ls.n31216:noster#noster, nostra, nostrum - our
+ls.n31390:nullus#nūllus, nūlla, nūllum (*-īus*) - no, none
+ls.n49206#trīstis, trīste - sad
+ls.n49983#uter, utra, utrum (*-īus*) - both, whichever of two
+ls.n50667:verus#vērus, vēra, vērum - true
+
+
+ls.n46529:sum1#est - is (for third-person singular subjects)
+ls.n46529:sum1#erat - was (for third-person singular subjects)
+ls.n46529:sum1#sunt - are (for third-person plural subjects)
+ls.n46529:sum1#erant - were (for third-person plural subjects)
+
+ls.n16278:et#et - and; *et ... et* - "both ... and"
+
+ls.n31151:non#nōn - not
