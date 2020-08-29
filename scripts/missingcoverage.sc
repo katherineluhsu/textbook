@@ -18,10 +18,7 @@ val hyginusUrl = "https://raw.githubusercontent.com/LinguaLatina/analysis/master
 val hyginus = LatinCorpus.fromUrl(hyginusUrl)
 
 val lcCorpus = LatinCorpus(hyginus.tokens.filter(_.text.head.isLower))
-
-
 val lexemesHist = lcCorpus.lexemesHistogram
-
 val lsLexemesHist = Histogram(lexemesHist.frequencies.filterNot(_.item.startsWith("composites")))
 
 
