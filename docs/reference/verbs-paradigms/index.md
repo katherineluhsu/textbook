@@ -186,7 +186,7 @@ Stem vowel changes are included in the bolded endings.
 | 3rd sg. | amāre-**t** | monēre-**t** | regere-**t** | capere-**t** | audīre-**t** |
 | 1st pl. | amārē-**mus** | monērē-**mus** | regerē-**mus** | caperē-**mus** | audīrē-**mus** |
 | 2nd pl. | amārē-**tis** | monērē-**tis** | regerē-**tis** | caperē-**tis** | audīrē-**tis** |
-| 3rd pl. | amāre-**ntur** | monēre-**ntur** | regere-**ntur** | capere-**ntur** | audīre-**ntur** |
+| 3rd pl. | amāre-**nt** | monēre-**nt** | regere-**nt** | capere-**nt** | audīre-**nt** |
 
 ### Perfect Active Subjunctive
 
