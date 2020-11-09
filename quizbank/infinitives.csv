@@ -4,7 +4,7 @@ amari,present passive,amo/amāre/amavi/amatus
 amavisse,perfect active,amo/amāre/amavi/amatus
 amatus esse,perfect passive,amo/amāre/amavi/amatus
 ducere,present active,duco/ducere/duxi/ductus
-duceri,present passive,duco/ducere/duxi/ductus
+duci,present passive,duco/ducere/duxi/ductus
 duxisse,perfect active,duco/ducere/duxi/ductus
 ductus esse,perfect passive,duco/ducere/duxi/ductus
 vidēre,present active,video/vidēre/vidi/visus
@@ -16,6 +16,6 @@ audiri,present passive,audio/audīre/audivi/auditus
 audivisse,perfect active,audio/audīre/audivi/auditus
 auditus esse,perfect passive,audio/audīre/audivi/auditus
 capere,present active,capio/capere/cepi/captus
-caperi,present passive,capio/capere/cepi/captus
+capi,present passive,capio/capere/cepi/captus
 cepisse,perfect active,capio/capere/cepi/captus
 captus esse,perfect passive,capio/capere/cepi/captus
