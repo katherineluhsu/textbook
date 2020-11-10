@@ -11,15 +11,15 @@ nav_order: 1
 
 ## Declension Identification
 
-What declension does each of the following nouns belong to?
-1. *ager*, *agrī*, m. - field  
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">2nd</span>
 
-2. *nomen*, *nominis*, n. - name  
-<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">3rd</span>
+Based on the dictionary entry, what declension does each of the following nouns belong to?
+(To see the correct answer, check <code>Show answer</code> below.)
 
-3. *agricola*, *agricolae*, m. - farmer  
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">1st</span>
+
+<iframe width="100%" height="310" frameborder="0"
+  src="https://observablehq.com/embed/@l3/identify-the-declension?cell=viewof+q&cell=dictionary&cell=answer1&cell=viewof+showAnswer&cell=css"></iframe>
+
+
 
 [Back to top.](#top)
 
