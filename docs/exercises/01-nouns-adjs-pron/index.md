@@ -46,7 +46,7 @@ What type of adjective is each of the following?
 <iframe width="100%" height="309" frameborder="0"
   src="https://observablehq.com/embed/@l3/identify-adjective-type?cell=viewof+q&cell=dictionary&cell=answer1&cell=viewof+showAnswer&cell=css"></iframe>
 
-  
+
 [Back to top.](#top)
 
 ***
@@ -55,23 +55,7 @@ What type of adjective is each of the following?
 
 Substitute each of the following words with a form of *is*, *ea*, *id* that matches it in **gender**, **case**, and **number**. Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*](../../reference/pronouns-paradigms#is-ea-id---he-she-it-they-3rd-person), the [general noun declension charts](../../reference/nouns-paradigms/), and your [Module 1 vocabulary](#) for help.
 
-1. *exemplum*  
-<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">*id*</span>
-
-2. *puerī*  
-<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">*eī* (if nominative plural) OR *eius* (if genitive singular)</span>
-
-3. *matrēs*  
-<button onclick="toggleDisplay('prac14')">Click here to toggle the answer:</button> <span style="display: none;" id="prac14">*eae*</span>
-
-4. *regum*  
-<button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">*eōrum*</span>
+<iframe width="100%" height="309" frameborder="0"
+  src="https://observablehq.com/embed/@l3/pronouns?cell=viewof+q&cell=noun&cell=answer1&cell=viewof+showAnswer&cell=css"></iframe>
 
 [Back to top.](#top)
-
-<script>
-function toggleDisplay(id) {
-  const el = document.getElementById(id);
-  el.style.display = el.style.display === 'none' ? 'inline' : 'none';
-}
-</script>
