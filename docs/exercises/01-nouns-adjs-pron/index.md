@@ -28,23 +28,12 @@ Translate the following phrases or sentences into English. Consult your [vocabul
 
 Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
-1. *maritus bonae rēginae*  
-<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">husband of the good queen</span>
 
-2. *māter huius familiae*  
-<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">mother of this family</span>
+<iframe width="100%" height="309" frameborder="0"
+  src="https://observablehq.com/embed/@l3/practice-with-nominative-and-genitive?cell=viewof+q&cell=question&cell=answer1&cell=viewof+showAnswer&cell=css"></iframe>
 
-3. *māter haec familiae*  
-<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">this mother of the family</span>
 
-4. *parēns illīus monstrī*  
-<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">parent of that monster</span>
-
-5. *parentēs sapientis puerī*  
-<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">parents of the wise boy</span>
-
-6. *illa est māter familiae.*  
-<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
+  
 
 [Back to top.](#top)
 
