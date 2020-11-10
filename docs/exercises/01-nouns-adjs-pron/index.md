@@ -33,7 +33,7 @@ Make sure you are translating the correct **case** and **number** for each word.
   src="https://observablehq.com/embed/@l3/practice-with-nominative-and-genitive?cell=viewof+q&cell=question&cell=answer1&cell=viewof+showAnswer&cell=css"></iframe>
 
 
-  
+
 
 [Back to top.](#top)
 
@@ -43,18 +43,10 @@ Make sure you are translating the correct **case** and **number** for each word.
 
 What type of adjective is each of the following?
 
-1. *celer*, *celeris*, *celere* - swift  
-<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">Three termination</span>
+<iframe width="100%" height="309" frameborder="0"
+  src="https://observablehq.com/embed/@l3/identify-adjective-type?cell=viewof+q&cell=dictionary&cell=answer1&cell=viewof+showAnswer&cell=css"></iframe>
 
-2. *sapiens*, *sapientis* - wise  
-<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">One termination</span>
-
-3. *malus*, *mala*, *malum* - bad, evil  
-<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">2-1-2</span>
-
-4. *brevis*, *breve* - brief, short  
-<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">Two termination</span>
-
+  
 [Back to top.](#top)
 
 ***
