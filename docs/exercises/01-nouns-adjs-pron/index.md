@@ -9,7 +9,7 @@ nav_order: 1
 
 ***
 
-## Declension Identification
+## Reading dictionary entries
 
 
 Based on the dictionary entry, what declension does each of the following nouns belong to?
@@ -19,9 +19,6 @@ Based on the dictionary entry, what declension does each of the following nouns 
 <iframe width="100%" height="310" frameborder="0"
   src="https://observablehq.com/embed/@l3/identify-the-declension?cell=viewof+q&cell=dictionary&cell=answer1&cell=viewof+showAnswer&cell=css"></iframe>
 
-
-
-[Back to top.](#top)
 
 ***
 
