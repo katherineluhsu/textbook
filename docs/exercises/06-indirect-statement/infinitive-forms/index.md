@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Infinitive forms - Exercises
+title: Infinitive forms
 parent: Exercises
-nav_order: 6
+parent: "Indirect Statement - Exercises"
+grand_parent: Exercises
+nav_order: 1
 ---
 
-# Infinitive forms - Exercises
+# Infinitive forms
 
 Select a randomly chosen infintive form, and identify its *tense* and *voice*.
 
