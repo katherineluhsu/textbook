@@ -1,0 +1,98 @@
+// UI
+
+
+md`# Identify the declension
+
+- click <code>Select a noun</code> to see the dictionary entry for a noun.
+- check <code>Show answer</code> to see what declension it belongs to.
+
+`
+
+// Use randomQuestion() function to shuffle data array and choose
+// first question as value of this button when clicked.
+//
+viewof q = {
+  const button = html`<button>Select a noun`;
+  Object.defineProperty(button, "value", {get() { return randomQuestion(); }});
+  button.onclick = () => randomQuestion();
+  return button;
+}
+
+dictionary = md `**Dictionary entry**: ${q[col1name].replace(/[|]/g, ",")}`
+answer1 = {
+  if (showAnswer) {
+    return md`**Answer**: <span class="highlight">${q[col2name]}</span>`
+  } else {
+    return md`**Answer**: <span class="waiting">To see the correct answer, check <code>Show answer</code>.</span>`
+  }
+}
+
+viewof showAnswer =  checkbox(["Show answer"])
+css = l3css
+
+
+html`<hr/>
+
+<div class="note">
+Cells below this point load data.
+</div>
+
+
+
+`
+///////////////////////////////////////////////////
+// 
+// data for quiz:
+url = "https://raw.githubusercontent.com/LinguaLatina/textbook/master/quizbank/declension-id-v2.csv"
+data = {
+  if (url.length == 0) {
+    return ([])
+  } else {
+    return d3.csv(url)
+  }
+}
+colnames = Object.keys(data[0])
+col1name = colnames[0]
+col2name = colnames[1]
+col1data = data.map( pr => pr[col1name])
+col2data = data.map( pr => pr[col2name])
+
+
+// Generate question at random:
+randomQuestion = function() {
+  return d3.shuffle(data)[0]
+}
+
+
+///////////////////////////////////////////////////
+// libraries we use:
+d3 = require("d3@5")
+import {text, button, select, checkbox} from "@jashkenas/inputs"
+import {l3css, depipe} from "@l3/shared"
+html`
+<style>
+.instructions {
+     background-color: #f0f7fb;
+   //background-image: url(../Images/icons/Pencil-48.png);
+   background-position: 9px 0px;
+   background-repeat: no-repeat;
+   border-left: solid 4px #3498db;
+   line-height: 18px;
+   overflow: hidden;
+   padding: 15px 60px;
+   font-style: normal;
+}
+.note { -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     background-color: #eee;
+     background-image: url(../Images/icons/Pencil-48.png);
+     background-position: 9px 0px;
+     background-repeat: no-repeat;
+     border: solid 1px black;
+     border-radius: 6px;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 15px 60px;
+    font-style: italic;
+ }
+</style>`
