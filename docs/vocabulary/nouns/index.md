@@ -1,0 +1,89 @@
+---
+layout: page
+title: Nouns
+parent: Vocabulary lists
+nav_order: 2
+---
+
+# Most frequent nouns in Hyginus, *Fabulae*
+
+- amor, amoris *m*: *love*
+- annus, anni *m*: *year*
+- aper, apri *m*: *wild boar*
+- aqua, aquae *f*: *water*
+- arbor, arboris *f*: *tree*
+- arma, armorum *n* (*pl* only): *arms, weapons*
+- aurum, auri *n*: *gold*
+- avis, avis *f*: *bird*
+- beneficium, beneficii *n*: *s*
+- canis, canis *m* or *f*: *dog*
+- caput, capitis *n*: *head*
+- conjugium, conjugii *n*: *marriage*
+- conjunx, conjugis *m* or *f*: *husband, wife*
+- corpus, corporis *n*: *body*
+- deus, dei *m*: *god*
+- dies, diei *m*: *day*
+- draco, draconis *m*: *serpent, dragon*
+- dux, ducis *m*: *leader*
+- equus, equi *m*: *horse*
+- femina, feminae *f*: *woman*
+- fides, fidei *f*: *faith, trustworthiness*
+- filia, filiae *f*: *daughter*
+- filius, filii *m*: *son*
+- flumen, fluminis *n*: *river*
+- forma, formae *f*: *shape, appearance*
+- frater, fratris *m*: *brother*
+- fulmen, fulminis *n*: *lightning*
+- gladius, gladii *m*: *sword*
+- homo, hominis *m*: *human being*
+- hospes, hospitis *m*: *host, guest*
+- hospitium, hospitii *n*: *hospitality*
+- infans, infantis *m* or *f*: *infant, small child*
+- insula, insulae *f*: *island*
+- lemma: *translation*
+- liber, liberi *m*: *child*
+- locus, loci *m*: *place*
+- ludus, ludi *m*: *play, game*
+- mare, maris *n*: *sea*
+- mater, matris *f*: *mother*
+- mons, montis *m*: *mountain*
+- mors, mortis *f*: *death*
+- munus, muneris *n*: *work, service, job*
+- murus, muri *m*: *city wall*
+- navis, navis *f*: *ship*
+- nomen, nominis *n*: *name*
+- nox, noctis *f*: *night*
+- numerus, numeri *m*: *number*
+- nutrix, nutricis *f*: *nurse*
+- nympha, nymphae *f*: *nymph*
+- oppidum, oppidi *n*: *town*
+- parens, parentis *m*: *parent*
+- pars, partis *f*: *part, portion*
+- pastor, pastoris *m*: *shepherd*
+- pater, patris *m*: *father*
+- patria, patriae *f*: *home country*
+- pecus, pecoris *n*: *cattle, herd*
+- pellis, pellis *f*: *skin, hide*
+- pes, pedis *m*: *foot*
+- procus, proci *m*: *suitor*
+- puer, pueri *m*: *boy*
+- regnum, regni *n*: *kingdom*
+- res, rei *f*: *thing, matter, affair*
+- rex, regis *m*: *king*
+- sacerdos, sacerdotis *m* or *f*: *priest, priestess*
+- sagitta, sagitta *f*: *arrow*
+- sepultura, sepulturae *f*: *burial*
+- signum, signi *n*: *sign, token*
+- sol, solis *m*: *sun*
+- soror, sororis *f*: *sister*
+- sors, sortis *f*: *lot, fate*
+- stadium, stadii *n*: *stadium*
+- taurus, tauri *m*: *bull*
+- templum, templi *n*: *temple*
+- tempus, temporis *n*: *time*
+- terra, terrae *f*: *land, earth*
+- uxor, uxoris *f*: *wife*
+- vestis, vestis *f*: *clothing *
+- vir, viri *m*: *man*
+- virgo, virginis *f*: *young woman*
+- voluntas, voluntatis *f*: *wish, will*
