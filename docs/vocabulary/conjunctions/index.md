@@ -14,7 +14,6 @@ nav_order: 7
 - dum: while
 - et: and
 - itaque: and so, accordingly
-- lemma: translation
 - nam: for
 - neque *or* nec: not, and not, also not
 - ne: *conjunction introducing several kinds of negative clauses*

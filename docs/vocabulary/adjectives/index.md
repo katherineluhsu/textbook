@@ -13,7 +13,6 @@ nav_order: 5
 - duo, duae, duo (**irregular**): *two*
 - idem, eadem, idem: *the same*
 - inferus, infera, inferum: *lower*
-- lemma: *translation*
 - liber, libera, liberum: *free*
 - magnus, magna, magnum: *great, large*
 - mortalis, mortale: *mortal, subject to death*

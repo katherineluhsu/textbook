@@ -40,7 +40,6 @@ nav_order: 2
 - hospitium, hospitii *n*: *hospitality*
 - infans, infantis *m* or *f*: *infant, small child*
 - insula, insulae *f*: *island*
-- lemma: *translation*
 - liber, liberi *m*: *child*
 - locus, loci *m*: *place*
 - ludus, ludi *m*: *play, game*

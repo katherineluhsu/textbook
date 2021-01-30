@@ -17,7 +17,6 @@ nav_order: 0
 - in + *abl*: in
 - in + *acc*: into
 - inter + *acc*: between, among
-- lemma: translation
 - ob + *acc*: on account of
 - per + *acc*: through
 - post + *acc*: after

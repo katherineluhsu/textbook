@@ -12,7 +12,6 @@ nav_order: 0
 - ille, illa, illud: *demonstrative pronoun*, that one
 - ipse: *intensifyiing pronoun*, **he** (himself), **she** herself
 - is, ea, id: *demonstrative pronoun*, he, she, it
-- lemma: translation
 - qui, quae, quod: *relative pronoun*, who, which
 - quis, quid: *interrogative pronoun*,  who, what
 - quisque: *indefinite pronoun*, whoever
