@@ -82,7 +82,7 @@ nav_order: 2
 - tempus, temporis *n*: *time*
 - terra, terrae *f*: *land, earth*
 - uxor, uxoris *f*: *wife*
-- vestis, vestis *f*: *clothing *
+- vestis, vestis *f*: *clothing*
 - vir, viri *m*: *man*
 - virgo, virginis *f*: *young woman*
 - voluntas, voluntatis *f*: *wish, will*
