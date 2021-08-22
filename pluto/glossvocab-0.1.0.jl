@@ -42,7 +42,7 @@ html"""
 <ul>
 <li><span class=\"core\">term recognized in core vocabulary<span></li>
 <li><span class=\"gloss\">term needs glossing<span></li>
-<li>[<span class=\"unanalyzed\">term not morphologically analyzed<span>]</li>
+<li><span class=\"unanalyzed\">[term not morphologically analyzed<span>]</li>
 </ul>
 
 """
