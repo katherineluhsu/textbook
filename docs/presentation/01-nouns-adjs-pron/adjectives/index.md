@@ -46,10 +46,10 @@ The full declension chart for 2-1-2 adjectives can be found [here](../../../refe
 
 ## 2-1-2: -īus adjectives
 
-There is a special subset of 2-1-2 adjectives known as **-īus adjectives**, so called because although they are 2-1-2 adjectives, their genitive singular forms across all three genders end in *-īus*, rather than the *-ī* or *-ae* familiar from regular 2-1-2 adjectives. Also, their dative singular forms across all three genders end in *-ī*, rather than the expected *-ō* or *-ae*. Nine adjectives fall into this pattern, and two of them are in your vocabulary for this module: *nullus*, *nulla*, *nullum*, "no, none", and *uter*, *utra*, *utrum*, "both, whichever (of two)." So, take a look at the following examples:
+There is a special subset of 2-1-2 adjectives known as **-īus adjectives**, so called because although they are 2-1-2 adjectives, their genitive singular forms across all three genders end in *-īus*, rather than the *-ī* or *-ae* familiar from regular 2-1-2 adjectives. Also, their dative singular forms across all three genders end in *-ī*, rather than the expected *-ō* or *-ae*. Nine adjectives fall into this pattern, and one of them is in your vocabulary for the first module: *unus*, *una*, *unum*, "a single." So, take a look at the following examples:
 
-- *pater nullīus familiae*, "father of no family"
-- *parentēs utrīus fīliī*, "parents of whichever son"
+- *pater unīus familiae*, "father of a single family"
+- *parentēs unīus fīliī*, "parents of a single son"
 
 The full declension chart for *-īus* adjectives can be found [here](../../../reference/adjectives-paradigms#2-1-2---īus-adjectives).
 
